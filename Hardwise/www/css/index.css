@@ -1,0 +1,63 @@
+:root {
+    --branco: #ffff;
+    --gelo: #f1f1f1;
+    --azul: #4394e0;
+    --roxo: rgba(68, 3, 110, 0.555);
+    --preto: #2a2a2a;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.toolbar {
+    height: 80px;
+}
+
+.tab-link {
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+}
+
+.toolbar-inner {
+    background: var(--branco);
+    border: 1px solid var(--gelo);
+}
+
+.toolbar-inner .link {
+    flex: 1;
+    height: 80px;
+    line-height: 25px;
+    font-weight: bold;
+    color: var(--azul);
+}
+
+.toolbar-inner .link:not(.active) {
+    color: var(--preto);
+    font-weight: normal;
+}
+
+.toolbar-inner>.link i {
+    font-size: 28px;
+}
+
+.top-nav {
+    width: 100%;
+    height: 60px;
+    background: var(--branco);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title-logo {
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.title-logo span {
+    color: var(--azul);
+}
