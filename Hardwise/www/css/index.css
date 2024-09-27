@@ -52,16 +52,6 @@ body {
     align-items: center;
 }
 
-.title-logo {
-    font-weight: 600;
-    margin-left: 2%;
-
-}
-
-.title-logo span {
-    color: var(--azul);
-}
-
 form {
     padding-top: 10px;
     background: var(--branco);
