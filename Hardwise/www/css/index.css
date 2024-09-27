@@ -3,7 +3,7 @@
     --gelo: #f1f1f1;
     --azul: #4394e0;
     --roxo: rgba(68, 3, 110, 0.555);
-    --preto: #2a2a2a;
+    --preto: #000000;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
@@ -50,14 +50,67 @@ body {
     background: var(--branco);
     display: flex;
     align-items: center;
-    justify-content: space-between;
 }
 
 .title-logo {
     font-weight: 600;
-    margin-left: 5%;
+    margin-left: 2%;
+
 }
 
 .title-logo span {
     color: var(--azul);
+}
+
+form {
+    padding-top: 10px;
+    background: var(--branco);
+    padding-bottom: 20px;
+    position: relative;
+}
+
+input[type="text"] {
+    width: 90%;
+    height: 45px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px 20px;
+    background: var(--gelo);
+}
+
+::placeholder {
+    color: #b3afaf;
+}
+
+.icone-busca {
+    position: absolute;
+    top: 0px;
+    right: 5%;
+    font-size: 27px;
+    padding: 13px;
+}
+
+.page-content {
+    background: var(--branco);
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
