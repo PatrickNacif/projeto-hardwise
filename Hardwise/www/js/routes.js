@@ -30,6 +30,18 @@ var app = new Framework7({
         },
         pageInit: function (event, page) {
           // fazer algo quando a página for inicializada
+          $.getScript('js/index.js');
+
+          var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 1,
+            spaceBetween: 30,
+            freeMode: true,
+            pagination: {
+              el: ".swiper-pagination",
+              clickable: true,
+            },
+          });
+
         },
         pageBeforeRemove: function (event, page) {
           // fazer algo antes da página ser removida do DOM
@@ -39,44 +51,6 @@ var app = new Framework7({
     {
       path: '/link2/',
       url: 'link2.html',
-      animate: false,
-      on: {
-        pageBeforeIn: function (event, page) {
-          // fazer algo antes da página ser exibida
-        },
-        pageAfterIn: function (event, page) {
-          // fazer algo depois da página ser exibida
-        },
-        pageInit: function (event, page) {
-          // fazer algo quando a página for inicializada
-        },
-        pageBeforeRemove: function (event, page) {
-          // fazer algo antes da página ser removida do DOM
-        },
-      }
-    },
-    {
-      path: '/link3/',
-      url: 'link3.html',
-      animate: false,
-      on: {
-        pageBeforeIn: function (event, page) {
-          // fazer algo antes da página ser exibida
-        },
-        pageAfterIn: function (event, page) {
-          // fazer algo depois da página ser exibida
-        },
-        pageInit: function (event, page) {
-          // fazer algo quando a página for inicializada
-        },
-        pageBeforeRemove: function (event, page) {
-          // fazer algo antes da página ser removida do DOM
-        },
-      }
-    },
-    {
-      path: '/link4/',
-      url: 'link4.html',
       animate: false,
       on: {
         pageBeforeIn: function (event, page) {
