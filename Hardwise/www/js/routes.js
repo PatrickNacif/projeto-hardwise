@@ -1,5 +1,6 @@
-//INICIALIZAÇÃO DO F7 QUANDO DISPOSITIVO ESTÁ PRONTO
+// INICIALIZAÇÃO DO F7 QUANDO DISPOSITIVO ESTÁ PRONTO
 document.addEventListener('deviceready', onDeviceReady, false);
+
 var app = new Framework7({
   // App root element
   el: '#app',
@@ -23,28 +24,71 @@ var app = new Framework7({
       animate: false,
       on: {
         pageBeforeIn: function (event, page) {
-          // fazer algo antes da página ser exibida
+          // Fazer algo antes da página ser exibida
         },
         pageAfterIn: function (event, page) {
-          // fazer algo depois da página ser exibida
+          // Fazer algo depois da página ser exibida
         },
         pageInit: function (event, page) {
-          // fazer algo quando a página for inicializada
+          // Fazer algo quando a página for inicializada
           $.getScript('js/index.js');
 
           var swiper = new Swiper(".mySwiper", {
             slidesPerView: 1,
             spaceBetween: 30,
-            freeMode: true,
-            pagination: {
-              el: ".swiper-pagination",
-              clickable: true,
+            autoplay: {
+              delay: 3000,
+            },
+            loop: true,
+            breakpoints: {
+              50: {
+                slidesPerView: 1,
+                spaceBetween: 30
+              },
+              640: {
+                slidesPerView: 2,
+                spaceBetween: 30
+              },
+              992: {
+                slidesPerView: 3,
+                spaceBetween: 30
+              },
+              1200: {
+                slidesPerView: 4,
+                spaceBetween: 30
+              }
             },
           });
 
+          var swiper2 = new Swiper(".categorias", {
+            slidesPerView: 4,
+            spaceBetween: 10,
+            breakpoints: {
+              50: {
+                slidesPerView: 4,
+                spaceBetween: 10
+              },
+              640: {
+                slidesPerView: 7,
+                spaceBetween: 10
+              },
+              992: {
+                slidesPerView: 9,
+                spaceBetween: 10
+              },
+              1200: {
+                slidesPerView: 13,
+                spaceBetween: 10
+              }
+            },
+            autoplay: {
+              delay: 3000,
+            },
+            loop: true,
+          });
         },
         pageBeforeRemove: function (event, page) {
-          // fazer algo antes da página ser removida do DOM
+          // Fazer algo antes da página ser removida do DOM
         },
       }
     },
@@ -54,16 +98,16 @@ var app = new Framework7({
       animate: false,
       on: {
         pageBeforeIn: function (event, page) {
-          // fazer algo antes da página ser exibida
+          // Fazer algo antes da página ser exibida
         },
         pageAfterIn: function (event, page) {
-          // fazer algo depois da página ser exibida
+          // Fazer algo depois da página ser exibida
         },
         pageInit: function (event, page) {
-          // fazer algo quando a página for inicializada
+          // Fazer algo quando a página for inicializada
         },
         pageBeforeRemove: function (event, page) {
-          // fazer algo antes da página ser removida do DOM
+          // Fazer algo antes da página ser removida do DOM
         },
       }
     },
@@ -71,10 +115,10 @@ var app = new Framework7({
   // ... other parameters
 });
 
-//Para testes direto no navegador
+// Para testes direto no navegador
 var mainView = app.views.create('.view-main', { url: '/index/' });
 
-//EVENTO PARA SABER O ITEM DO MENU ATUAL
+// EVENTO PARA SABER O ITEM DO MENU ATUAL
 app.on('routeChange', function (route) {
   var currentRoute = route.url;
   console.log(currentRoute);
@@ -87,14 +131,12 @@ app.on('routeChange', function (route) {
   }
 });
 
-
 function onDeviceReady() {
-  //Quando estiver rodando no celular
+  // Quando estiver rodando no celular
   var mainView = app.views.create('.view-main', { url: '/index/' });
 
-  //COMANDO PARA "OUVIR" O BOTAO VOLTAR NATIVO DO ANDROID 	
+  // COMANDO PARA "OUVIR" O BOTÃO VOLTAR NATIVO DO ANDROID 	
   document.addEventListener("backbutton", function (e) {
-
     if (mainView.router.currentRoute.path === '/index/') {
       e.preventDefault();
       app.dialog.confirm('Deseja sair do aplicativo?', function () {
@@ -105,5 +147,4 @@ function onDeviceReady() {
       mainView.router.back({ force: true });
     }
   }, false);
-
 }
