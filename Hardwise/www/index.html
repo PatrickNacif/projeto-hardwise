@@ -20,7 +20,21 @@
     <!-- Icones do Remix icon-->
     <link rel="stylesheet" href="css/remixicon/remixicon.css">
 
+    <style>
+        .top-nav {
+            text-align: center;
+            padding: 10px 0;
+            overflow: hidden;
+        }
 
+        .imagem-logo {
+            display: block;
+            margin: 0 auto;
+            max-width: 80%;
+            height: auto;
+            margin-bottom: 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -44,33 +58,84 @@
                 </div>
             </div>
 
-
             <!-- Initial Page, "data-name" contains page name -->
             <div data-name="index" class="page color-theme-blue">
 
-
                 <!--NAV TOPO-->
                 <div class="top-nav">
-                    <div class="imagem-logo"><img src="img/Logo.png">
-                    </div>
+                    <img src="img/Logo.png" alt="Logo" class="imagem-logo">
                 </div>
 
                 <form>
                     <input placeholder="O que você procura?" type="text">
                     <i class="icone-busca ri-search-2-line"></i>
-
                 </form>
+
                 <!-- Scrollable page content -->
                 <div class="page-content">
-                    <div class="block">
+                    <div class="block no-margin-top">
                         <!-- Swiper -->
                         <div class="swiper mySwiper">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="img/COLOCAR NOME DA IMAGEM">
+                                    <img class="img-fluid" src="img/Black Myth - Wukong.png">
                                 </div>
-                                <div class="swiper-slide">Slide 2</div>
-                                <div class="swiper-slide">Slide 3</div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Call of Duty - Black Ops 6.jpg">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Dragon's Dogma II.jpg">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/DragonBall Sparking Zero.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/final fantasy xvi.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/GTA V.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/hogwarts legacy.jpg">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/red dead redemption 2.jpg">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Tekken 8.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/valorant.jpg">
+                                </div>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                        </div>
+
+                        <div class="display-flex align-items-center justify-content-space-between">
+                            <h2>Categorias</h2>
+                            <a href="#" style="color: #2188e9; font-weight: bold">Veja todas <i
+                                    class="mdi mdi-arrow-right"></i></a>
+                        </div>
+
+                        <!-- Swiper -->
+                        <div class="swiper categorias">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <button class="filter-btn active"
+                                        style="background-color: #2188e9; color: #ffffff; border-radius: 5px; padding: 10px 20px;">
+                                        Todas
+                                    </button>
+                                </div>
+                                <div class="swiper-slide">
+                                    <button class="filter-btn">
+                                        Ação
+                                    </button>
+                                </div>
+                                <div class="swiper-slide">
+                                    <button class="filter-btn">
+                                        hahahahahhahahahahahahahhahahahahahkkk
+                                    </button>
+                                </div>
                                 <div class="swiper-slide">Slide 4</div>
                                 <div class="swiper-slide">Slide 5</div>
                                 <div class="swiper-slide">Slide 6</div>
@@ -80,6 +145,8 @@
                             </div>
                             <div class="swiper-pagination"></div>
                         </div>
+
+
                     </div>
                 </div>
             </div>
