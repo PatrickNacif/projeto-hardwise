@@ -1,2 +1,0 @@
-# projeto-hardwise
-Segundo Commit
