@@ -37,9 +37,9 @@ var app = new Framework7({
             slidesPerView: 1,
             spaceBetween: 30,
             autoplay: {
-              delay: 3000,
+            delay: 3000,
             },
-            loop: true,
+            
             breakpoints: {
               50: {
                 slidesPerView: 1,
@@ -95,6 +95,25 @@ var app = new Framework7({
     {
       path: '/link2/',
       url: 'link2.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+    {
+      path: '/games/',
+      url: 'games.html',
       animate: false,
       on: {
         pageBeforeIn: function (event, page) {
