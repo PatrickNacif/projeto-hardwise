@@ -1,7 +1,7 @@
 :root {
     --branco: #ffff;
     --gelo: #f1f1f1;
-    --azul: #18436b;
+    --azul: #4394e0;
     --roxo: rgba(68, 3, 110, 0.555);
     --preto: #000000;
 }
@@ -51,7 +51,6 @@ body {
     overflow: hidden;
 }
 
-
 form {
     padding-top: 5px;
     background: var(--branco);
@@ -72,14 +71,6 @@ input[type="text"] {
 .imagem-logo {
     display: block;
     width: 100px;
-    height: auto;
-    margin: 0 auto;
-    margin-bottom: 5px;
-    object-fit: contain;
-}
-.imagem-logo2{
-    display: block;
-    width: 50px;
     height: auto;
     margin: 0 auto;
     margin-bottom: 5px;
@@ -174,9 +165,8 @@ input[type="text"] {
     flex-direction: column;
     height: 240px;
     flex: 45%;
-    margin-right: 10px;
+    margin-right: 5px;
     margin-bottom: 5px;
-    margin-top: 20px;;
 
 }
 .img-container{
@@ -193,24 +183,5 @@ input[type="text"] {
 
 .nome-rating{
     display: flex;
-    justify-content: center;
-    align-items: center; 
-    margin-top: 10px;
     
-}
-
-.title-jogo {
-    text-align: center;
-}
-
-@media (min-width:992px){
-    .jogo-card{
-        flex:30%
-    }
-}
-
-@media (min-width:1200px){
-    .jogo-card{
-        flex:20%
-    }
 }
