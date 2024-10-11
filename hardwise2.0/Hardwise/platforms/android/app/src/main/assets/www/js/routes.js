@@ -37,9 +37,9 @@ var app = new Framework7({
             slidesPerView: 1,
             spaceBetween: 30,
             autoplay: {
-            delay: 3000,
+              delay: 3000,
             },
-            
+
             breakpoints: {
               50: {
                 slidesPerView: 1,

@@ -77,9 +77,10 @@ input[type="text"] {
     margin-bottom: 5px;
     object-fit: contain;
 }
-.imagem-logo2{
+
+.imagem-logo2 {
     display: block;
-    width: 50px;
+    width: 100px;
     height: auto;
     margin: 0 auto;
     margin-bottom: 5px;
@@ -161,28 +162,31 @@ input[type="text"] {
 
 .row {
     flex-wrap: wrap;
-    flex-direction:row;
+    flex-direction: row;
 }
 
 .jogo {
     color: var(--preto);
+
 }
 
-.jogo-card{
+.jogo-card {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     flex-direction: column;
-    height: 240px;
+    height: 180px;
     flex: 45%;
     margin-right: 10px;
     margin-bottom: 5px;
-    margin-top: 20px;;
+    margin-top: 20px;
+    justify-content: space-around;
 
 }
-.img-container{
+
+.img-container {
     display: flex;
     align-items: center;
-    justify-content:center;
+    justify-content: center;
     width: 100%;
     height: 100%;
     border-radius: 10px;
@@ -191,26 +195,49 @@ input[type="text"] {
 
 }
 
-.nome-rating{
+.nome-rating {
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
     margin-top: 10px;
-    
+
 }
 
 .title-jogo {
     text-align: center;
 }
 
-@media (min-width:992px){
-    .jogo-card{
-        flex:30%
+@media (max-width: 300px) {
+    #jogos {
+        grid-template-columns: repeat(2, 1fr); 
     }
 }
 
-@media (min-width:1200px){
-    .jogo-card{
-        flex:20%
+@media (min-width:992px) {
+    .jogo-card {
+        flex: 30%
     }
+}
+
+@media (min-width:1200px) {
+    .jogo-card {
+        flex: 20%
+    }
+}
+
+
+
+.button-veja-todas {
+    display: inline-block;
+    background-color: #2188e9;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.button-veja-todas:hover {
+    background-color: #176ab6;
 }
