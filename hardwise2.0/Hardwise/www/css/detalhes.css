@@ -1,0 +1,41 @@
+:root {
+    --branco: #ffff;
+    --gelo: #f1f1f1;
+    --azul: #18436b;
+    --roxo: rgba(68, 3, 110, 0.555);
+    --preto: #000000;
+}
+
+.game-detalhe{
+    background: var(--gelo);
+    width: 100%;
+    height: 450px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.game-detalhe img{
+    max-width: 400px;
+}
+
+.buttons-top{
+    display: flex;
+    width: 100%;
+    background: #f1f1f1;
+    position: absolute;
+    top: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buttons-top a{
+    width: 40px;
+    height: 40px;
+    background: var(--branco);
+    border-radius: 50%;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}

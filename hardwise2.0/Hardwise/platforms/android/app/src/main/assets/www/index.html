@@ -19,22 +19,6 @@
     <link rel="stylesheet" href="css/materialdesignicons.min.css">
     <!-- Icones do Remix icon-->
     <link rel="stylesheet" href="css/remixicon/remixicon.css">
-
-    <style>
-        .top-nav {
-            text-align: center;
-            padding: 10px 0;
-            overflow: hidden;
-        }
-
-        .imagem-logo {
-            display: block;
-            margin: 0 auto;
-            max-width: 80%;
-            height: auto;
-            margin-bottom: 0;
-        }
-    </style>
 </head>
 
 <body>
@@ -59,7 +43,6 @@
                         <i class="ri-menu-line"></i>
                         <span>Menu</span>
                     </a>
-                    
                 </div>
             </div>
 
@@ -68,7 +51,7 @@
 
                 <!--NAV TOPO-->
                 <div class="top-nav">
-                    <img src="img/Logo.png" alt="Logo" class="imagem-logo">
+                    <img src="img/logo.png" alt="Logo" class="imagem-logo">
                 </div>
 
                 <form>
@@ -116,78 +99,21 @@
                             <div class="swiper-pagination"></div>
                         </div>
 
-                        <div class="display-flex align-items-center justify-content-space-between">
-                            <h2>Categorias</h2>
-                            <a href="games.html" style="color: #2188e9; font-weight: bold">Veja todas<i
-                                class="mdi mdi-arrow-right"></i>
-                            </a>
+                        <div class="display-flex align-items-center justify-content-flex-end">
+                            <a href="/games/" style="color: #2188e9; font-weight: bold">Veja todas<i
+                                    class="mdi mdi-arrow-right"></i></a>
                         </div>
-
-                        <!-- Swiper -->
-                        <div class="swiper categorias">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <button class="filter-btn active"
-                                        style="background-color: #2188e9; color: #ffffff; border-radius: 5px; padding: 10px 20px;">
-                                        Todas
-                                    </button>
-                                </div>
-                                <div class="swiper-slide">
-                                    <button class="filter-btn">
-                                        Ação
-                                    </button>
-                                </div>
-                                <div class="swiper-slide">
-                                    <button class="filter-btn">
-                                        RPG
-                                    </button>
-                                </div>
-                                <div class="swiper-slide">
-                                    <button class="filter-btn">
-                                        Aventura
-                                    </button>
-                                </div>
-                                <div class="swiper-slide">
-                                    <button class="filter-btn">
-                                        FPS
-                                    </button>
-                            </div>
-                            <div class="swiper-slide">
-                                <button class="filter-btn">
-                                    Battle Royale
-                                </button>
-                        </div>
-                        <div class="swiper-slide">
-                            <button class="filter-btn">
-                                MMORPG
-                            </button>
-                    </div>
-                    <div class="swiper-slide">
-                        <button class="filter-btn">
-                            Corrida
-                        </button>
-                </div>
-                <div class="swiper-slide">
-                    <button class="filter-btn">
-                        Esporte
-                    </button>
-            </div>
-                            <div class="swiper-pagination"></div>
-                        </div>
-
 
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- Path to Framework7 Library Bundle JS-->
-    <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
-    <!-- jQuery -->
-    <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-    <!-- Roteamento do app-->
-    <script type="text/javascript" src="js/routes.js"></script>
-    <script src="cordova.js"></script>
+            <!-- Path to Framework7 Library Bundle JS-->
+            <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
+            <!-- jQuery -->
+            <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
+            <!-- Roteamento do app-->
+            <script type="text/javascript" src="js/routes.js"></script>
+            <script src="cordova.js"></script>
 </body>
 
 </html>

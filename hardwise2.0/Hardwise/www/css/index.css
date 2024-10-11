@@ -167,18 +167,19 @@ input[type="text"] {
 
 .jogo {
     color: var(--preto);
+
 }
 
 .jogo-card {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     flex-direction: column;
-    height: 240px;
+    height: 200px;
     flex: 45%;
     margin-right: 10px;
     margin-bottom: 5px;
     margin-top: 20px;
-    ;
+    justify-content: space-around;
 
 }
 
@@ -190,7 +191,6 @@ input[type="text"] {
     height: 100%;
     border-radius: 10px;
     background: var(--gelo);
-
 
 }
 
@@ -206,6 +206,12 @@ input[type="text"] {
     text-align: center;
 }
 
+@media (max-width: 300px) {
+    #jogos {
+        grid-template-columns: repeat(2, 1fr); 
+    }
+}
+
 @media (min-width:992px) {
     .jogo-card {
         flex: 30%
@@ -217,6 +223,8 @@ input[type="text"] {
         flex: 20%
     }
 }
+
+
 
 .button-veja-todas {
     display: inline-block;
