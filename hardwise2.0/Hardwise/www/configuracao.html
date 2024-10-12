@@ -1,56 +1,51 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
-    <!-- Required meta tags-->
+    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <!-- Color theme for statusbar (Android only) -->
     <meta name="theme-color" content="#2196f3">
-    <!-- Your app title -->
-    <title>HardWise</title>
-    <!-- Path to Framework7 Library Bundle CSS -->
+    <title>My App</title>
     <link rel="stylesheet" href="lib/framework7-bundle.min.css">
-    <!-- CSS PERSONALIZADO PARA MENU-->
-    <link rel="stylesheet" href="css/index.css">
-    <!--Ícones Material Design-->
+    <link rel="stylesheet" href="css/personalizado.css">
     <link rel="stylesheet" href="css/materialdesignicons.min.css">
-    <!-- Icones do Remix icon-->
-    <link rel="stylesheet" href="css/remixicon/remixicon.css">
+    <style>
+        /* Estilos personalizados podem ser adicionados aqui */
+    </style>
 </head>
 
 <body>
     <!-- App root element -->
     <div id="app">
-
         <!-- Your main view, should have "view-main" class -->
         <div class="view view-main">
 
-
             <!-- Initial Page, "data-name" contains page name -->
-            <div data-name="detalhes" class="page color-theme-blue">
+            <div data-name="configuracao" class="page">
 
-                <div class="toolbar toolbar-bottom">
+                <!-- Top Navbar -->
+                <div class="top-nav3">
+                    <a href="/index/" class="top-nav2">
+                        <img src="img/logo.png" alt="Logo" class="imagem-logo">
+                        <div class="top-nav2-bg"></div>
+                    </a>
+                </div>
+
+                <div class="title-jogo">
+                    <h3>CONFIGURAÇÕES</h3>
+                </div>
+                <div class="block no-margin-top">
+                    <div id="jogos" class="margin top row display-flex align-items-center justify-content-start">
+                        <!-- Conteúdo dos jogos vai aqui -->
+                    </div>
+                </div>
+
+                <!-- TAB BAR-->
+                <div id="menuPrincipal" class="toolbar toolbar-bottom">
                     <div class="toolbar-inner display-flex">
-
-                    </div>
-                </div>
-
-                <!-- Scrollable page content -->
-                <div class="page-content">
-                    <div class="game-detalhe">
-                        <div class="buttons-top">
-                            <a href="/games/"><i class="ri-arrow-left-s-line"></i></a>
-                        </div>
-                        <img src="img/Valorant-Logo-PNG-Photo.png" width="100" height="100">
-                    </div>
-                </div>
-
-                <!-- Toolbar -->
-                <div class="toolbar toolbar-bottom">
-                    <div class="toolbar-inner">
                         <a href="/index/" class="tab-link link active">
                             <i class="ri-home-5-line"></i>
                             <span>Home</span>
@@ -63,21 +58,34 @@
                             <i class="ri-menu-line"></i>
                             <span>Menu</span>
                         </a>
-
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 
-    <!-- Path to Framework7 Library Bundle JS-->
+    <!-- Path to Framework7 Library Bundle JS -->
     <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
     <!-- jQuery -->
     <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-    <!-- Roteamento do app-->
+    <!-- Roteamento do app -->
     <script type="text/javascript" src="js/routes.js"></script>
     <script src="cordova.js"></script>
+
+    <script>
+        // Definindo as rotas do Framework7
+        const routes = [
+            { path: '/index/', url: './index.html' },
+            { path: '/games/', url: './games.html' },
+            { path: '/link2/', url: './link2.html' },
+        ];
+
+        // Inicializando o Framework7
+        var app = new Framework7({
+            root: '#app',
+            routes: routes,
+        });
+    </script>
 </body>
 
 </html>
