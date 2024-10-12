@@ -54,7 +54,8 @@ body {
 }
 
 .top-nav,
-.top-nav2 {
+.top-nav2,
+.top-nav3 {
     text-align: center;
     padding: 2px 0;
     height: auto;
@@ -81,8 +82,7 @@ input[type="text"] {
     /* Estilo para o campo de texto com largura e padding */
 }
 
-.imagem-logo,
-.imagem-logo2 {
+.imagem-logo {
     display: block;
     width: 100px;
     height: auto;
@@ -202,6 +202,7 @@ input[type="text"] {
 
 .title-jogo {
     text-align: center;
+    margin-bottom: 20px;
     /* Título do jogo centralizado */
 }
 

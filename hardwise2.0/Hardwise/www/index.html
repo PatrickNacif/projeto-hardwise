@@ -20,6 +20,39 @@
     <link rel="stylesheet" href="css/materialdesignicons.min.css">
     <!-- Icones do Remix icon-->
     <link rel="stylesheet" href="css/remixicon/remixicon.css">
+    <style>
+        /* CSS para garantir que os Swipers não sejam cortados */
+        .swiper {
+            width: 100%;
+            /* 100% da largura do contêiner pai */
+            height: auto;
+            /* Ajuste automático de altura */
+        }
+
+        .swiper-slide {
+            display: flex;
+            /* Permite centralizar o conteúdo dentro do slide */
+            justify-content: center;
+            /* Centraliza horizontalmente */
+            align-items: center;
+            /* Centraliza verticalmente */
+        }
+
+        .img-fluid {
+            width: 100%;
+            /* Imagem ocupa 100% da largura do slide */
+            height: auto;
+            /* Mantém a proporção */
+        }
+
+        /* Estilo para adicionar rolagem ao conteúdo */
+        .page-content {
+            max-height: 80vh;
+            /* Altura máxima para o conteúdo rolável */
+            overflow-y: auto;
+            /* Ativa a barra de rolagem vertical */
+        }
+    </style>
 </head>
 
 <body>
@@ -63,6 +96,7 @@
                 <!-- Scrollable page content -->
                 <div class="page-content">
                     <div class="block no-margin-top">
+
                         <!-- Swiper -->
                         <div class="swiper mySwiper">
                             <div class="swiper-wrapper">
@@ -105,16 +139,86 @@
                                     class="mdi mdi-arrow-right"></i></a>
                         </div>
 
+                        <br>
+
+                        <!-- Swiper2 -->
+                        <div class="swiper mySwiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4090">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/AMD Radeon RX 7900 XTX.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4080.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/AMD Radeon RX 7800 XT.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4070 Ti.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/AMD Radeon RX 7700 XT.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4060 Ti.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/AMD Radeon RX 7600.png">
+                                </div>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                        </div>
+
+                        <!-- Swiper3 -->
+                        <div class="swiper mySwiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Intel Core 1.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Ryzen 1.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Intel Core 2.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Ryzen 2.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Intel Core 3.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Ryzen 8000.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Intel Core 4.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Ryzen 9.png">
+                                </div>
+                            </div>
+                            <div class="swiper-pagination">
+                            </div>
+
+                            <div class="display-flex align-items-center justify-content-flex-end">
+                                <a href="/configuracao/" style="color: #2188e9; font-weight: bold">Veja todas<i
+                                        class="mdi mdi-arrow-right"></i></a>
+                            </div>
+                        </div>
                     </div>
+
+                    <!-- Path to Framework7 Library Bundle JS-->
+                    <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
+                    <!-- jQuery -->
+                    <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
+                    <!-- Roteamento do app-->
+                    <script type="text/javascript" src="js/routes.js"></script>
+                    <script src="cordova.js"></script>
                 </div>
             </div>
-            <!-- Path to Framework7 Library Bundle JS-->
-            <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
-            <!-- jQuery -->
-            <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-            <!-- Roteamento do app-->
-            <script type="text/javascript" src="js/routes.js"></script>
-            <script src="cordova.js"></script>
 </body>
 
 </html>
