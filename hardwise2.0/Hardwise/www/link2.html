@@ -45,27 +45,32 @@
 
                 <!-- Scrollable page content -->
                 <div class="page-content">
-                    <div><button id="meuBotao">Sobre nós</button>  
-                        <script>
-                            document.getElementById("meuBotao").addEventListener("click", function() {
-                                window.location.href = "sobre.html";});
-                        </script>                      
+                    <div class="page-content">
+                        <div><button id="meuBotao">Sobre nós</button>  
+                            <script>
+                                document.getElementById("meuBotao").addEventListener("click", function() {
+                                    mainView.router.navigate('/sobre/');
+                                });
+                            </script>                      
+                        </div>
+                    
+                        <div><button id="botaoDescarte">Descarte Consciente</button>
+                            <script>
+                                document.getElementById("botaoDescarte").addEventListener("click", function() {
+                                    mainView.router.navigate('/descarte/');
+                                });
+                            </script>
+                        </div>
+                    
+                        <div><button id="contato">Fale Conosco</button>
+                            <script>
+                                document.getElementById("contato").addEventListener("click", function() {
+                                    mainView.router.navigate('/contatos/');
+                                });
+                            </script>
+                        </div>
                     </div>
-
-                    <div><button id="botaoDescarte">Descarte Consciente</button>
-                    <script>
-                        document.getElementById("botaoDescarte").addEventListener("click",function(){
-                            window.location.href = "descarte.html" ;
-                        });
-                    </script>
-                    </div>
-                    <div><button id="contato"> Fale Conosco</button>
-                        <script>
-                            document.getElementById("contato").addEventListener("click",function(){
-                                window.location.href="contatos.html";
-                            });
-                        </script>
-                    </div>
+                    
 
                 </div>
             </div>

@@ -170,9 +170,12 @@ var app = new Framework7({
         },
       }
     },
+    
   ],
   // ... other parameters
 });
+
+
 
 // Para testes direto no navegador
 var mainView = app.views.create('.view-main', { url: '/index/' });
@@ -207,3 +210,4 @@ function onDeviceReady() {
     }
   }, false);
 }
+
