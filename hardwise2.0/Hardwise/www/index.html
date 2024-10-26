@@ -7,9 +7,7 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <!-- Color theme for statusbar (Android only) -->
     <meta name="theme-color" content="#2196f3">
-    <!-- Your app title -->
     <title>HardWise</title>
     <!-- Path to Framework7 Library Bundle CSS -->
     <link rel="stylesheet" href="lib/framework7-bundle.min.css">
@@ -49,7 +47,6 @@
 
 <body>
     <div id="app">
-
         <div class="view view-main">
 
             <div id="menuPrincipal" class="toolbar toolbar-bottom">
@@ -83,6 +80,7 @@
                 <div class="page-content">
                     <div class="block no-margin-top">
 
+                        <!-- Swiper 1 -->
                         <div class="swiper mySwiper">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
@@ -124,33 +122,60 @@
                                     class="mdi mdi-arrow-right"></i></a>
                         </div>
 
-                        <br>
 
+                        <!-- Swiper 2 -->
                         <div class="swiper mySwiper">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="swiper-slide">
-                                        <img class="img-fluid" src="img/Call of Duty.png">
-                                    </div>
+                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4090">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Ryzen 1.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/AMD Radeon RX 7800 XT.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4070 Ti.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Intel Core 4.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/AMD Radeon RX 7600.png">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img class="img-fluid" src="img/Ryzen 8000.png">
                                 </div>
                             </div>
                             <div class="swiper-pagination"></div>
                         </div>
 
-                        <div class="swiper mySwiper">
+                        <br>
+
+                        <!-- Swiper 3 -->
+                        <div class="call">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    abobrinha
+                                    <img class="img-fluid" src="img/Call of Duty.png">
                                 </div>
                             </div>
-                            <div class="swiper-pagination">
-                            </div>
-
-                            <div class="display-flex align-items-center justify-content-flex-end">
-                                <a href="/configuracao/" style="color: #2188e9; font-weight: bold">Veja mais<i
-                                        class="mdi mdi-arrow-right"></i></a>
-                            </div>
+                            <div class="veja-mais"></div>
                         </div>
+
+                        <div
+                            style="display: flex; align-items: center; justify-content: center; font-weight: bold; color: #ec790e; white-space: nowrap;">
+                            <span style="margin-right: 5px;">Clique no</span>
+                            <a href="/configuracao/" style="text-decoration: none; color: #2188e9; margin: 0 5px;">
+                                Veja mais
+                            </a>
+                            <span>para ver as melhores configurações para o seu PC</span>
+                        </div>
+
+
+
+
+
                     </div>
                     <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
                     <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
@@ -158,6 +183,7 @@
                     <script src="cordova.js"></script>
                 </div>
             </div>
+        </div>
 </body>
 
 </html>
