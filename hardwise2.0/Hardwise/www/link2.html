@@ -35,37 +35,43 @@
             <!-- Initial Page, "data-name" contains page name -->
             <div data-name="link2" class="page">
 
+
                 <!-- Top Navbar -->
-                <div class="navbar">
-                    <div class="navbar-bg"></div>
-                    <div class="navbar-inner justify-content-center">
-                        <div class="title ">Menu</div>
-                    </div>
+                <div class="top-nav2">
+                    <a href="/index/" class="top-nav2">
+                        <img src="img/logo.png" alt="Logo" class="imagem-logo">
+                        <div class="top-nav2-bg"></div>
+                        <a style="color: #2188e9; font-weight: bold">MENU</a>
+                    </a>
                 </div>
 
                 <!-- Scrollable page content -->
                 <div class="page-content">
-                    <div><button id="meuBotao">Sobre nós</button>  
+                    <div><button id="meuBotao" style="font-weight: bold">Sobre nós</button>
                         <script>
-                            document.getElementById("meuBotao").addEventListener("click", function() {
-                                window.location.href = "sobre.html";});
-                        </script>                      
-                    </div>
-
-                    <div><button id="botaoDescarte">Descarte Consciente</button>
-                    <script>
-                        document.getElementById("botaoDescarte").addEventListener("click",function(){
-                            window.location.href = "descarte.html" ;
-                        });
-                    </script>
-                    </div>
-                    <div><button id="contato"> Fale Conosco</button>
-                        <script>
-                            document.getElementById("contato").addEventListener("click",function(){
-                                window.location.href="contatos.html";
+                            document.getElementById("meuBotao").addEventListener("click", function () {
+                                window.location.href = "sobre.html";
                             });
                         </script>
                     </div>
+
+                    <div>
+                        <button id="botaoDescarte" style="font-weight: bold;">Descarte Consciente</button>
+                        <script>
+                            document.getElementById("botaoDescarte").addEventListener("click", function () {
+                                window.location.href = "descarte.html";
+                            });
+                        </script>
+                    </div>
+                    <div>
+                        <button id="contato" style="font-weight: bold;">Fale Conosco</button>
+                        <script>
+                            document.getElementById("contato").addEventListener("click", function () {
+                                window.location.href = "contatos.html";
+                            });
+                        </script>
+                    </div>
+
 
                 </div>
             </div>

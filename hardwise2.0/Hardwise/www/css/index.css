@@ -2,7 +2,7 @@
     /* Definição de variáveis de cor */
     --branco: #ffff;
     --gelo: #f1f1f1;
-    --azul: #18436b;
+    --azul: #2188e9;
     --roxo: rgba(68, 3, 110, 0.555);
     --preto: #000000;
 }
@@ -205,7 +205,8 @@ input[type="text"] {
     margin-bottom: 20px;
     /* Título do jogo centralizado */
 }
-.texto{
+
+.texto {
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -229,5 +230,18 @@ input[type="text"] {
     .jogo-card {
         flex: 20%;
         /* Ajuste do tamanho do cartão de jogo para telas extra grandes */
+    }
+}
+
+.call {
+    .swiper-slide {
+        display: flex;
+        /* Habilita o uso de flexbox */
+        justify-content: center;
+        /* Centraliza horizontalmente a imagem */
+        align-items: center;
+        /* Centraliza verticalmente a imagem */
+        height: 100%;
+        /* Mantém a altura do slide */
     }
 }
