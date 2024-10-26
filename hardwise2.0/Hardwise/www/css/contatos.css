@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left; 
+}
+
+th {
+    background-color: #4CAF50; 
+    color: white; 
+}
+
+tr:hover {
+    background-color: #f1f1f1; 
+}
+#contato {
+    background-color: #4CAF50;
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border-radius: 5px; 
+    text-align: center;
+    cursor: pointer; 
+    display: flex;
+    align-items: center;
+    width: 250px;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 15px;
+    transition: background-color 0.3s ease; 
+}
+
+#contato:hover {
+    background-color: #166419;
+}

@@ -205,6 +205,11 @@ input[type="text"] {
     margin-bottom: 20px;
     /* Título do jogo centralizado */
 }
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
 
 @media (max-width: 300px) {
     #jogos {

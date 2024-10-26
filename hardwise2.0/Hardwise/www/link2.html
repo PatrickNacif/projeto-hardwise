@@ -13,6 +13,11 @@
     <title>My App</title>
     <!-- Path to Framework7 Library Bundle CSS -->
     <link rel="stylesheet" href="lib/framework7-bundle.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/descarte.css">
+    <link rel="stylesheet" href="css/sobre.css">
+    <link rel="stylesheet" href="css/contatos.css">
+
     <!-- CSS PERSONALIZADO PARA MENU-->
     <link rel="stylesheet" href="css/personalizado.css">
     <!--Ícones Material Design-->
@@ -40,9 +45,28 @@
 
                 <!-- Scrollable page content -->
                 <div class="page-content">
-                    <div class="block">
-                        Conteúdo do link 2
+                    <div><button id="meuBotao">Sobre nós</button>  
+                        <script>
+                            document.getElementById("meuBotao").addEventListener("click", function() {
+                                window.location.href = "sobre.html";});
+                        </script>                      
                     </div>
+
+                    <div><button id="botaoDescarte">Descarte Consciente</button>
+                    <script>
+                        document.getElementById("botaoDescarte").addEventListener("click",function(){
+                            window.location.href = "descarte.html" ;
+                        });
+                    </script>
+                    </div>
+                    <div><button id="contato"> Fale Conosco</button>
+                        <script>
+                            document.getElementById("contato").addEventListener("click",function(){
+                                window.location.href="contatos.html";
+                            });
+                        </script>
+                    </div>
+
                 </div>
             </div>
         </div>

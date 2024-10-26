@@ -1,0 +1,21 @@
+#meuBotao {
+    background-color:#4CAF50;
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border-radius: 5px; 
+    text-align: center;
+    cursor: pointer; 
+    display: flex;
+    align-items: center;
+    width: 250px;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 15px;
+    
+    transition: background-color 0.3s ease; 
+}
+
+#meuBotao:hover {
+    background-color: #166419;
+}
