@@ -45,42 +45,43 @@
 
                 <!-- Scrollable page content -->
                 <div class="page-content">
-                    <div><button id="meuBotao" style="font-weight: bold">Sobre nós</button>
-                        <script>
-                            document.getElementById("meuBotao").addEventListener("click", function () {
-                                window.location.href = "sobre.html";
-                            });
-                        </script>
-                    </div>
+                    <div class="botao-container">
+                        <div><button id="meuBotao" style="font-weight: bold">Sobre nós</button>
+                            <script>
+                                document.getElementById("meuBotao").addEventListener("click", function () {
+                                    window.location.href = "sobre.html";
+                                });
+                            </script>
+                        </div>
 
-                    <div>
-                        <button id="botaoDescarte" style="font-weight: bold;">Descarte Consciente</button>
-                        <script>
-                            document.getElementById("botaoDescarte").addEventListener("click", function () {
-                                window.location.href = "descarte.html";
-                            });
-                        </script>
-                    </div>
-                    <div>
-                        <button id="contato" style="font-weight: bold;">Fale Conosco</button>
-                        <script>
-                            document.getElementById("contato").addEventListener("click", function () {
-                                window.location.href = "contatos.html";
-                            });
-                        </script>
-                    </div>
+                        <div>
+                            <button id="botaoDescarte" style="font-weight: bold;">Descarte Consciente</button>
+                            <script>
+                                document.getElementById("botaoDescarte").addEventListener("click", function () {
+                                    window.location.href = "descarte.html";
+                                });
+                            </script>
+                        </div>
+                        <div>
+                            <button id="contato" style="font-weight: bold;">Fale Conosco</button>
+                            <script>
+                                document.getElementById("contato").addEventListener("click", function () {
+                                    window.location.href = "contatos.html";
+                                });
+                            </script>
+                        </div>
 
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Path to Framework7 Library Bundle JS-->
-    <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
-    <!-- jQuery -->
-    <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-    <!-- Roteamento do app-->
-    <script type="text/javascript" src="js/routes.js"></script>
-    <script src="cordova.js"></script>
+        <!-- Path to Framework7 Library Bundle JS-->
+        <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
+        <!-- jQuery -->
+        <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
+        <!-- Roteamento do app-->
+        <script type="text/javascript" src="js/routes.js"></script>
+        <script src="cordova.js"></script>
 </body>
 
 </html>
