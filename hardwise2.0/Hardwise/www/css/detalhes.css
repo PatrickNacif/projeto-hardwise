@@ -1,4 +1,4 @@
-:root {
+root {
     --branco: #ffff;
     --gelo: #f1f1f1;
     --azul: #18436b;
@@ -6,20 +6,31 @@
     --preto: #000000;
 }
 
-.game-detalhe{
+
+
+.toolbar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.game-detalhe {
     background: var(--gelo);
     width: 100%;
     height: 450px;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
 
-.game-detalhe img{
+.game-detalhe img {
     max-width: 400px;
 }
-.buttons-top{
+
+.buttons-top {
     display: flex;
     width: 100%;
     position: absolute;
@@ -28,19 +39,42 @@
     align-items: center;
 }
 
-.buttons-top a{
+.buttons-top a {
     width: 40px;
     height: 40px;
     background: var(--branco);
     border-radius: 50%;
     display: flex;
-    align-items:center ;
+    align-items: center;
     justify-content: center;
     color: var(--preto);
     border: 1px solid var(--gelo);
     font-size: 30px;
+
 }
-.buttons-top a:first-child{
+
+.buttons-top a:first-child {
     margin-left: 20px;
     margin-right: auto;
+}
+
+.game-content {
+    margin-top: -50px;
+    background: var(--branco);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    position: relative;
+    z-index: 99;
+
+}
+
+.line {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+.line b {
+    font-size: 20px;
 }

@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="pt-BR">
 <html>
 
 <head>
@@ -24,62 +25,30 @@
 <body>
     <!-- App root element -->
     <div id="app">
-
         <!-- Your main view, should have "view-main" class -->
         <div class="view view-main">
-
-
             <!-- Initial Page, "data-name" contains page name -->
             <div data-name="detalhes" class="page color-theme-blue">
 
-                <div class="toolbar toolbar-bottom">
-                    <div class="toolbar-inner display-flex">
-
+                <!-- Top Navbar -->
+                <div class="game-detalhe">
+                    <div class="buttons-top">
+                        <a href="/games/"><i class="ri-arrow-left-s-line"></i></a>
                     </div>
+                    <img src="img/Valorant-Logo-PNG-Photo.png" width="200" height="200" alt="Imagem centralizada"
+                        style="display: block; margin: 0 auto;">
                 </div>
-
-                <!-- Scrollable page content -->
-                <div class="page-content">
-                    <div class="game-detalhe">
-                        <div class="buttons-top">
-                            <a href="/games/"><i class="ri-arrow-left-s-line"></i></a>
-                        </div>
-                        <img src="img/Valorant-Logo-PNG-Photo.png" width="200" height="200" alt="Imagem centralizada"
-                            style="display: block; margin: 0 auto;">
-
-                    </div>
-                    <div class="prod-content">
-                        <div class="block">
-                            <div class="line">
-                                <b>Configurações para rodar valorant</b>
-                                <button>Configurações</button>
-                            </div>
+                <div class="prod-content">
+                    <div class="block">
+                        <div class="line">
+                            <b>Configurações para Rodar Valorant</b>
                         </div>
                     </div>
                 </div>
-
-                <!-- Toolbar -->
-                <div class="toolbar toolbar-bottom">
-                    <div class="toolbar-inner">
-                        <a href="/index/" class="tab-link link active">
-                            <i class="ri-home-5-line"></i>
-                            <span>Home</span>
-                        </a>
-                        <a href="/games/" class="tab-link link">
-                            <i class="ri-gamepad-line"></i>
-                            <span>Jogos</span>
-                        </a>
-                        <a href="/link2/" class="tab-link link">
-                            <i class="ri-menu-line"></i>
-                            <span>Menu</span>
-                        </a>
-
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>
+
 
     <!-- Path to Framework7 Library Bundle JS-->
     <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>

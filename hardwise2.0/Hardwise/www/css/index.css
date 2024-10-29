@@ -174,7 +174,7 @@ input[type="text"] {
     flex-direction: column;
     height: 200px;
     flex: 45%;
-    margin-right: 10px;
+    margin-right: 5px;
     margin-bottom: 5px;
     margin-top: 20px;
     justify-content: space-around;
