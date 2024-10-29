@@ -1,51 +1,25 @@
-#contato {
-  background-color: #2188e9;
-  color: white;
-  padding: 10px 20px;
-  font-size: 16px;
-  border-radius: 5px;
-  text-align: center;
-  cursor: pointer;
+body {
   display: flex;
-  align-items: center;
-  width: 250px;
   justify-content: center;
-  margin-left: 160px;
-  margin-top: 15px;
-  transition: background-color 0.3s ease;
+  /* Centraliza horizontalmente */
+  align-items: center;
+  /* Centraliza verticalmente, se necessário */
+  height: 100vh;
+  /* Define a altura da página para 100% da viewport */
+  margin: 0;
+  /* Remove margens padrão do body */
 }
 
-#contato:hover {
-  background-color: #145a9b;
-}
-
-#botaoDescarte {
-  background-color: #2188e9;
-  color: white;
-  padding: 10px 20px;
-  font-size: 16px;
-  border-radius: 5px;
-  text-align: center;
-  cursor: pointer;
+.botao-container {
   display: flex;
+  flex-direction: column;
+  /* Alinha os botões em coluna */
   align-items: center;
-  width: 250px;
-  margin-left: 160px;
-  justify-content: center;
-  margin-top: 15px;
-  transition: background-color 0.3s ease;
+  /* Centraliza os botões horizontalmente */
 }
 
-#botaoDescarte:hover {
-  background-color: #145a9b;
-}
-
-h1,
-h2,
-h3 {
-  color: #145a9b;
-}
-
+#contato,
+#botaoDescarte,
 #meuBotao {
   background-color: #2188e9;
   color: white;
@@ -58,12 +32,20 @@ h3 {
   align-items: center;
   width: 250px;
   justify-content: center;
-  margin-left: 160px;
-  margin-top: 15px;
-
+  margin: 5px 0;
+  /* Diminuído de 15px para 5px */
+  /* Adiciona margem superior e inferior */
   transition: background-color 0.3s ease;
 }
 
+#contato:hover,
+#botaoDescarte:hover,
 #meuBotao:hover {
   background-color: #145a9b;
+}
+
+h1,
+h2,
+h3 {
+  color: #145a9b;
 }

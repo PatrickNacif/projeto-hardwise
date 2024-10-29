@@ -176,7 +176,7 @@ input[type="text"] {
     flex: 45%;
     margin-right: 5px;
     margin-bottom: 5px;
-    margin-top: 20px;
+    margin-top: -20px;
     justify-content: space-around;
     /* Estilo dos cartões de jogo com layout flexível e margens */
 }
