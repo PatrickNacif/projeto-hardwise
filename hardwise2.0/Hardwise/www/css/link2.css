@@ -1,0 +1,69 @@
+#contato {
+  background-color: #2188e9;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  width: 250px;
+  justify-content: center;
+  margin-left: 160px;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+}
+
+#contato:hover {
+  background-color: #145a9b;
+}
+
+#botaoDescarte {
+  background-color: #2188e9;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  width: 250px;
+  margin-left: 160px;
+  justify-content: center;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+}
+
+#botaoDescarte:hover {
+  background-color: #145a9b;
+}
+
+h1,
+h2,
+h3 {
+  color: #145a9b;
+}
+
+#meuBotao {
+  background-color: #2188e9;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  width: 250px;
+  justify-content: center;
+  margin-left: 160px;
+  margin-top: 15px;
+
+  transition: background-color 0.3s ease;
+}
+
+#meuBotao:hover {
+  background-color: #145a9b;
+}

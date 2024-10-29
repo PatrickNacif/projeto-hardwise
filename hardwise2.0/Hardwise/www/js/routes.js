@@ -138,6 +138,7 @@ var app = new Framework7({
         pageBeforeIn: function (event, page) {
           // Fazer algo antes da página ser exibida
           $("#menuPrincipal").hide("fast");
+
         },
         pageAfterIn: function (event, page) {
           // Fazer algo depois da página ser exibida
@@ -157,7 +158,70 @@ var app = new Framework7({
       on: {
         pageBeforeIn: function (event, page) {
           // Fazer algo antes da página ser exibida
-          $("#menuPrincipal").hide("fast");
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+
+    {
+      path: '/sobre/',
+      url: 'sobre.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+
+    {
+      path: '/descarte/',
+      url: 'descarte.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+
+    {
+      path: '/contatos/',
+      url: 'descarte.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+
         },
         pageAfterIn: function (event, page) {
           // Fazer algo depois da página ser exibida
