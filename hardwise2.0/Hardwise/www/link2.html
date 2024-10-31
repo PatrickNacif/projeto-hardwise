@@ -45,31 +45,27 @@
 
                 <!-- Scrollable page content -->
                 <div class="page-content">
-                    <div class="botao-container">
-                        <div><button id="meuBotao" style="font-weight: bold">Sobre nós</button>
-                            <script>
-                                document.getElementById("meuBotao").addEventListener("click", function () {
-                                    window.location.href = "sobre.html";
-                                });
-                            </script>
-                        </div>
-
-                        <div>
-                            <button id="botaoDescarte" style="font-weight: bold;">Descarte Consciente</button>
-                            <script>
-                                document.getElementById("botaoDescarte").addEventListener("click", function () {
-                                    window.location.href = "descarte.html";
-                                });
-                            </script>
-                        </div>
-                        <div>
-                            <button id="contato" style="font-weight: bold;">Fale Conosco</button>
-                            <script>
-                                document.getElementById("contato").addEventListener("click", function () {
-                                    window.location.href = "contatos.html";
-                                });
-                            </script>
-                        </div>
+                    <div style="justify-content: center; align-items: center;">
+                        <a   href="/sobre/" class="button-sobre">
+                            <i class="ri-information-line"></i>
+                            <span>Sobre nós</span>
+                        </a>
+                    </div>
+                
+                    <div>
+                        <a href="/descarte/" class="button-descarte">
+                            <i class="ri-recycle-line"></i>
+                            <span>Descarte Consciente</span>
+                        </a>
+                    </div>
+                
+                    <div>
+                        <a href="/contato/" class="button-contato">
+                            <i class="ri-mail-line"></i>
+                            <span>Fale Conosco</span>
+                        </a>
+                    </div>
+                </div>
 
                     </div>
                 </div>
