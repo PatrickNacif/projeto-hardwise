@@ -39,7 +39,6 @@ var app = new Framework7({
             autoplay: {
               delay: 3000,
             },
-
             breakpoints: {
               50: {
                 slidesPerView: 1,
@@ -118,6 +117,7 @@ var app = new Framework7({
       on: {
         pageBeforeIn: function (event, page) {
           // Fazer algo antes da página ser exibida
+          $("#menuPrincipal").show("fast");
         },
         pageAfterIn: function (event, page) {
           // Fazer algo depois da página ser exibida
@@ -130,9 +130,116 @@ var app = new Framework7({
         },
       }
     },
+    {
+      path: '/detalhes/',
+      url: 'detalhes.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+          $("#menuPrincipal").hide("fast");
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+    {
+      path: '/configuracao/',
+      url: 'configuracao.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+
+    {
+      path: '/sobre/',
+      url: 'sobre.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+
+    {
+      path: '/descarte/',
+      url: 'descarte.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+
+    {
+      path: '/contatos/',
+      url: 'descarte.html',
+      animate: false,
+      on: {
+        pageBeforeIn: function (event, page) {
+          // Fazer algo antes da página ser exibida
+
+        },
+        pageAfterIn: function (event, page) {
+          // Fazer algo depois da página ser exibida
+        },
+        pageInit: function (event, page) {
+          // Fazer algo quando a página for inicializada
+        },
+        pageBeforeRemove: function (event, page) {
+          // Fazer algo antes da página ser removida do DOM
+        },
+      }
+    },
+
   ],
   // ... other parameters
 });
+
+
 
 // Para testes direto no navegador
 var mainView = app.views.create('.view-main', { url: '/index/' });
@@ -152,9 +259,9 @@ app.on('routeChange', function (route) {
 
 function onDeviceReady() {
   // Quando estiver rodando no celular
-  var mainView = app.views.create('.view-main', { url: '/index/' });
+  var mainView = app.views.create('.view-main', { url: '/index/' }); // Navega para a página inicial
 
-  // COMANDO PARA "OUVIR" O BOTÃO VOLTAR NATIVO DO ANDROID 	
+  // COMANDO PARA "OUVIR" O BOTÃO VOLTAR NATIVO DO ANDROID 
   document.addEventListener("backbutton", function (e) {
     if (mainView.router.currentRoute.path === '/index/') {
       e.preventDefault();
@@ -167,3 +274,4 @@ function onDeviceReady() {
     }
   }, false);
 }
+

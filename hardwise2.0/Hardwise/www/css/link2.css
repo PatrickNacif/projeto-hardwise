@@ -18,9 +18,16 @@ body {
   /* Centraliza os botões horizontalmente */
 }
 
-#contato,
-#botaoDescarte,
-#meuBotao {
+.botao-container {
+  display: flex;
+  flex-direction: column; /* Alinha os botões em coluna */
+  align-items: center; /* Centraliza os botões horizontalmente */
+}
+
+
+.button-sobre,
+.button-descarte,
+.button-contato {
   background-color: #2188e9;
   color: white;
   padding: 10px 20px;
@@ -29,14 +36,22 @@ body {
   text-align: center;
   cursor: pointer;
   display: flex;
-  align-items: center;
   width: 250px;
   justify-content: center;
-  margin: 5px 0;
+  margin: 15px ;
+  align-items: center;
   /* Diminuído de 15px para 5px */
   /* Adiciona margem superior e inferior */
   transition: background-color 0.3s ease;
 }
+
+.page[data-name="link2"] .page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+} 
 
 #contato:hover,
 #botaoDescarte:hover,

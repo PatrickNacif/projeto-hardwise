@@ -59,7 +59,7 @@ var app = new Framework7({
             },
           });
 
-          var swiper2 = new Swiper(".categorias", {
+          var swiper2 = new Swiper2(".categorias", {
             slidesPerView: 4,
             spaceBetween: 10,
             breakpoints: {
@@ -81,7 +81,7 @@ var app = new Framework7({
               }
             },
             autoplay: {
-              delay: 3000,
+              delay: 4000,
             },
             loop: true,
           });
