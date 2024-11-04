@@ -216,7 +216,7 @@ var app = new Framework7({
 
     {
       path: '/contatos/',
-      url: 'descarte.html',
+      url: 'contatos.html',
       animate: false,
       on: {
         pageBeforeIn: function (event, page) {
