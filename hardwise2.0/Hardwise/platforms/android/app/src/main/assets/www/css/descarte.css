@@ -10,3 +10,9 @@ h3 {
     padding: 20px; /* Espaço ao redor do conteúdo */
     box-sizing: border-box;
   }
+
+  .view-main {
+    overflow-y: auto;
+    height: 100vh;
+}
+
