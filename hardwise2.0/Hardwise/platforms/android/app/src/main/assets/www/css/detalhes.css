@@ -19,7 +19,7 @@ root {
 .game-detalhe {
     background: var(--gelo);
     width: 100%;
-    height: 450px;
+    height: 250px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,3 +78,19 @@ root {
 .line b {
     font-size: 20px;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th,td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+
+}
+

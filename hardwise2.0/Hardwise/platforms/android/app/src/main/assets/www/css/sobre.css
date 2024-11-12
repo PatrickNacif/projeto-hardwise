@@ -4,4 +4,11 @@
     padding: 20px; /* Espaço ao redor do conteúdo */
     box-sizing: border-box;
   }
+
+  .page[data-name="sobre"] .page-content {
+    overflow-y: auto;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
   
