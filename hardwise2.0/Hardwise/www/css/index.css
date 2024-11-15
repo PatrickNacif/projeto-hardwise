@@ -194,7 +194,7 @@ input[type="text"] {
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 100%;
+    height: 150px;
     border-radius: 10px;
     background: var(--gelo);
     /* Contêiner da imagem com fundo e centralização */
@@ -257,3 +257,4 @@ input[type="text"] {
 .page{
     overflow: auto;
 }
+
