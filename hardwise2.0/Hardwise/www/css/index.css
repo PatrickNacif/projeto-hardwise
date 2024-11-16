@@ -3,7 +3,6 @@
     --branco: #ffff;
     --gelo: #f1f1f1;
     --azul: #2188e9;
-    --roxo: rgba(68, 3, 110, 0.555);
     --preto: #000000;
 }
 
@@ -95,15 +94,6 @@ input[type="text"] {
 ::placeholder {
     color: #b3afaf;
     /* Cor do texto do placeholder no campo de texto */
-}
-
-.icone-busca {
-    position: absolute;
-    top: -7%;
-    right: 5%;
-    font-size: 27px;
-    padding: 13px;
-    /* Estilo do ícone de busca com posicionamento absoluto */
 }
 
 .page-content {
