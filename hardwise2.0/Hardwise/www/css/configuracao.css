@@ -1,0 +1,45 @@
+#app, .view, .view-main, .page {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;    /* Centraliza verticalmente */
+    height: 100vh;          /* Ocupa toda a altura da janela */
+    padding: 0 20px;        /* Espaço lateral para bordas */
+    box-sizing: border-box; /* Inclui padding no cálculo da largura */
+}
+
+/* Estilização do bloco principal */
+.top-pcs {
+    width: 100%;           /* Garante que o contêiner use o espaço disponível */
+    max-width: 600px;      /* Limita a largura em dispositivos maiores */
+    background-color: #fff; /* Fundo branco para contraste */
+    border-radius: 8px;    /* Arredondamento dos cantos */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para destaque */
+    padding: 20px;         /* Espaçamento interno */
+    text-align: center;    /* Centraliza texto e elementos */
+}
+
+/* Estilo da imagem */
+.img-pctop img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;    /* Opcional: bordas arredondadas */
+}
+
+/* Estilo da tabela */
+table {
+    width: 100%;           /* Faz a tabela ocupar toda a largura do contêiner */
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th, table td {
+    border: 1px solid #ccc; /* Bordas das células */
+    padding: 8px 10px;      /* Espaçamento interno */
+    text-align: left;       /* Alinha o conteúdo à esquerda */
+}
+
+table th {
+    background-color: #f8f8f8; /* Fundo do cabeçalho */
+    font-weight: bold;
+}
