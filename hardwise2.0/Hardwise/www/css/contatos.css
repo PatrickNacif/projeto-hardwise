@@ -33,9 +33,11 @@ h1 {
 
 /* Estilo para a div "texto" */
 .texto {
-    overflow-y: auto; /* Adiciona rolagem vertical */
-    height: 100vh; /* Define a altura como a altura da viewport */
-    padding: 20px; /* Espaço ao redor do conteúdo */
+    overflow-y: auto;
+    /* Adiciona rolagem vertical */
+    height: 100vh;
+    /* Define a altura como a altura da viewport */
+    padding: 20px;
+    /* Espaço ao redor do conteúdo */
     box-sizing: border-box;
 }
-
