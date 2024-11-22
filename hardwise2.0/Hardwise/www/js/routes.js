@@ -1,3 +1,5 @@
+// pagina routes atualizada
+
 // INICIALIZAÇÃO DO F7 QUANDO DISPOSITIVO ESTÁ PRONTO
 document.addEventListener('deviceready', onDeviceReady, false);
 
@@ -124,6 +126,7 @@ var app = new Framework7({
         },
         pageInit: function (event, page) {
           // Fazer algo quando a página for inicializada
+          $.getScript('js/games.js');
         },
         pageBeforeRemove: function (event, page) {
           // Fazer algo antes da página ser removida do DOM
