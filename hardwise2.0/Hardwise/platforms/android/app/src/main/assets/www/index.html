@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 
 <head>
     <!-- Required meta tags-->
@@ -11,16 +11,16 @@
     <title>HardWise</title>
     <!-- Path to Framework7 Library Bundle CSS -->
     <link rel="stylesheet" href="lib/framework7-bundle.min.css">
-    <!-- CSS PERSONALIZADO PARA MENU-->
+    <!-- CSS Personalizado para Menu-->
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/detalhes.css">
     <link rel="stylesheet" href="css/descarte.css">
     <link rel="stylesheet" href="css/contatos.css">
     <link rel="stylesheet" href="css/sobre.css">
     <link rel="stylesheet" href="css/link2.css">
-    <!--Ícones Material Design-->
+    <!-- Ícones Material Design-->
     <link rel="stylesheet" href="css/materialdesignicons.min.css">
-    <!-- Icones do Remix icon-->
+    <!-- Ícones do Remix Icon-->
     <link rel="stylesheet" href="css/remixicon/remixicon.css">
     <style>
         .swiper {
@@ -49,6 +49,10 @@
             margin: 0;
             padding: 0;
         }
+
+        .toolbar-bottom {
+            z-index: 10;
+        }
     </style>
 </head>
 
@@ -56,6 +60,7 @@
     <div id="app">
         <div class="view view-main">
 
+            <!-- Menu Principal -->
             <div id="menuPrincipal" class="toolbar toolbar-bottom">
                 <div class="toolbar-inner display-flex">
                     <a href="/index/" class="tab-link link active">
@@ -73,115 +78,157 @@
                 </div>
             </div>
 
+            <!-- Página Principal -->
             <div data-name="index" class="page color-theme-blue">
-
                 <div class="top-nav">
-                    <img src="img/logo.png" alt="Logo" class="imagem-logo">
-                </div>
+                    <img src="img/logo.png" alt="Logo da HardWise" class="imagem-logo">
 
-                <form>
-                    <input placeholder="O que você procura?" type="text">
-                    <i class="icone-busca ri-search-2-line"></i>
-                </form>
+                    <br>
 
-                <div class="page-content">
-                    <div class="block no-margin-top">
+                    <div class="page-content">
+                        <div class="block no-margin-top">
 
-                        <!-- Swiper 1 -->
-                        <div class="swiper mySwiper">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Black Myth - Wukong.png">
+                            <br>
+
+                            <div class="align-items-center justify-content-flex-end">
+                                <span class="animated-box"
+                                    style="color: #ffffff; font-weight: bold; text-align: center; display: block; font-size: 16px; background-color: #348cdd; padding: 10px; border-radius: 10px;">
+                                    Simplificamos o entendimento de peças de computadores, orientamos upgrades
+                                    compatíveis e promovemos o descarte eletrônico sustentável.
+                                </span>
+                            </div>
+
+                            <br>
+
+                            <style>
+                                @keyframes pulse {
+                                    0% {
+                                        transform: scale(1);
+                                    }
+
+                                    50% {
+                                        transform: scale(1.1);
+                                    }
+
+                                    100% {
+                                        transform: scale(1);
+                                    }
+                                }
+
+                                .animated-box {
+                                    animation: pulse 2s infinite;
+                                }
+                            </style>
+
+
+                            <br>
+
+                            <!-- Swiper 1 -->
+                            <div class="swiper mySwiper">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Black Myth - Wukong.png"
+                                            alt="Black Myth - Wukong">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Call of Duty - Black Ops 6.jpg"
+                                            alt="Call of Duty - Black Ops 6">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Dragon's Dogma II.jpg" alt="Dragon's Dogma II">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/DragonBall Sparking Zero.png"
+                                            alt="DragonBall Sparking Zero">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/final fantasy xvi.png" alt="Final Fantasy XVI">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/GTA V.png" alt="GTA V">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/hogwarts legacy.jpg" alt="Hogwarts Legacy">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/red dead redemption 2.jpg"
+                                            alt="Red Dead Redemption 2">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Tekken 8.png" alt="Tekken 8">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/valorant.jpg" alt="Valorant">
+                                    </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Call of Duty - Black Ops 6.jpg">
+                                <div class="swiper-pagination"></div>
+                            </div>
+
+                            <div class="display-flex align-items-center justify-content-flex-end">
+                                <a href="/games/" style="color: #2188e9; font-weight: bold">Veja todas<i
+                                        class="mdi mdi-arrow-right"></i></a>
+                            </div>
+
+                            <!-- Swiper 2 -->
+                            <div class="swiper mySwiper">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/NVIDIA GeForce RTX 4090"
+                                            alt="NVIDIA GeForce RTX 4090">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Ryzen 1.png" alt="Ryzen 1">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/AMD Radeon RX 7800 XT.png"
+                                            alt="AMD Radeon RX 7800 XT">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/NVIDIA GeForce RTX 4070 Ti.png"
+                                            alt="NVIDIA GeForce RTX 4070 Ti">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Intel Core 4.png" alt="Intel Core 4">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/AMD Radeon RX 7600.png"
+                                            alt="AMD Radeon RX 7600">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Ryzen 8000.png" alt="Ryzen 8000">
+                                    </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Dragon's Dogma II.jpg">
+                                <div class="swiper-pagination"></div>
+                            </div>
+
+                            <br>
+
+                            <!-- Swiper 3 -->
+                            <div class="call">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <img class="img-fluid" src="img/Call of Duty.png" alt="Call of Duty">
+                                    </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/DragonBall Sparking Zero.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/final fantasy xvi.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/GTA V.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/hogwarts legacy.jpg">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/red dead redemption 2.jpg">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Tekken 8.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/valorant.jpg">
+
+                                <br>
+                                <div
+                                    style="display: flex; align-items: center; justify-content: center; font-weight: bold; color: #ec790e; white-space: nowrap;">
+                                    <span style="margin-right: 5px;">Clique<a href="/configuracao/"
+                                            style="text-decoration: none; color: #2188e9; margin: 0 2px;">aqui</a>
+                                        para
+                                        ver
+                                        as melhores configurações para o seu PC</span>
                                 </div>
                             </div>
-                            <div class="swiper-pagination"></div>
+
                         </div>
 
-                        <div class="display-flex align-items-center justify-content-flex-end">
-                            <a href="/games/" style="color: #2188e9; font-weight: bold">Veja todas<i
-                                    class="mdi mdi-arrow-right"></i></a>
-                        </div>
-
-
-                        <!-- Swiper 2 -->
-                        <div class="swiper mySwiper">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4090">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Ryzen 1.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/AMD Radeon RX 7800 XT.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/NVIDIA GeForce RTX 4070 Ti.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Intel Core 4.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/AMD Radeon RX 7600.png">
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Ryzen 8000.png">
-                                </div>
-                            </div>
-                            <div class="swiper-pagination"></div>
-                        </div>
-
-                        <br>
-
-                        <!-- Swiper 3 -->
-                        <div class="call">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="img/Call of Duty.png">
-                                </div> 
-                            </div>
-                            
-                              <br> <div
-                            style="display: flex; align-items: center; justify-content: center; font-weight: bold; color: #ec790e; white-space: nowrap;">
-                            <span style="margin-right: 5px;">Clique<a href="/configuracao/"
-                                    style="text-decoration: none; color: #2188e9; margin: 0 2px;">aqui</a>para ver as
-                                melhores configurações para o seu PC</span>
-                        </div>
-                        </div>
-
-                      
+                        <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
+                        <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
+                        <script type="text/javascript" src="js/routes.js"></script>
+                        <script src="cordova.js"></script>
                     </div>
-                    <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
-                    <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-                    <script type="text/javascript" src="js/routes.js"></script>
-                    <script src="cordova.js"></script>
                 </div>
             </div>
         </div>
