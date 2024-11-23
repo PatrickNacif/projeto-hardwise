@@ -31,6 +31,7 @@ var app = new Framework7({
         },
         pageInit: function (event, page) {
           // Fazer algo quando a página for inicializada
+          app.views.main.router.navigate('/detalhes/');
           $.getScript('js/index.js');
 
           var swiper = new Swiper(".mySwiper", {
@@ -124,6 +125,8 @@ var app = new Framework7({
         },
         pageInit: function (event, page) {
           // Fazer algo quando a página for inicializada
+          
+          $.getScript('js/games.js');
         },
         pageBeforeRemove: function (event, page) {
           // Fazer algo antes da página ser removida do DOM
@@ -145,6 +148,7 @@ var app = new Framework7({
         },
         pageInit: function (event, page) {
           // Fazer algo quando a página for inicializada
+          $.getScript('js/detalhes.js');
         },
         pageBeforeRemove: function (event, page) {
           // Fazer algo antes da página ser removida do DOM

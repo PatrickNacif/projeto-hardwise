@@ -23,6 +23,12 @@ body {
   flex-direction: column; /* Alinha os botões em coluna */
   align-items: center; /* Centraliza os botões horizontalmente */
 }
+.button-sobre i,
+.button-descarte i,
+.button-contato i {
+  margin-right: 10px; /* Ajuste a distância entre o ícone e o texto */
+  margin-left: -5px; /* Move o ícone um pouco para a esquerda */
+}
 
 
 .button-sobre,
@@ -30,18 +36,16 @@ body {
 .button-contato {
   background-color: #2188e9;
   color: white;
-  padding: 10px 20px;
-  font-size: 16px;
+  padding: 15px 22px;
+  font-size: 18px;
   border-radius: 5px;
   text-align: center;
   cursor: pointer;
   display: flex;
   width: 250px;
   justify-content: center;
-  margin: 15px ;
+  margin: 18px ;
   align-items: center;
-  /* Diminuído de 15px para 5px */
-  /* Adiciona margem superior e inferior */
   transition: background-color 0.3s ease;
 }
 

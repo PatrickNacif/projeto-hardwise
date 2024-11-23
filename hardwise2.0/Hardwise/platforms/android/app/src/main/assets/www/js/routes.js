@@ -59,7 +59,7 @@ var app = new Framework7({
             },
           });
 
-          var swiper2 = new Swiper2(".categorias", {
+          var swiper2 = new Swiper(".categorias", {
             slidesPerView: 4,
             spaceBetween: 10,
             breakpoints: {
@@ -81,7 +81,7 @@ var app = new Framework7({
               }
             },
             autoplay: {
-              delay: 4000,
+              delay: 3000,
             },
             loop: true,
           });
@@ -124,6 +124,7 @@ var app = new Framework7({
         },
         pageInit: function (event, page) {
           // Fazer algo quando a página for inicializada
+          $.getScript('js/games.js');
         },
         pageBeforeRemove: function (event, page) {
           // Fazer algo antes da página ser removida do DOM
