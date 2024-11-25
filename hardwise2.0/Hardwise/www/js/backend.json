@@ -56,8 +56,85 @@
                 "detalhes": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
             }
         ],
-        "preco": 15599.99,
-        "preco_promocional": 14999.99
+
+        "detalhes1": [
+            {
+                "caracteristica1": "Pika",
+                "detalhes1": "kjshshafh A16 para execução suave de aplicativos e jogos"
+            },
+            {
+                "caracteristica1": "Câmeras",
+                "detalhes1": "dkfkljfdskfdkls Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
+            },
+            {
+                "caracteristica1": "Tela",
+                "detalhes1": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
+            },
+            {
+                "caracteristica1": "Design",
+                "detalhes1": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+            },
+            {
+                "caracteristica1": "Bateria",
+                "detalhes1": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+            },
+            {
+                "caracteristica1": "Sistema Operacional",
+                "detalhes1": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+            },
+            {
+                "caracteristica1": "Conectividade",
+                "detalhes1": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
+            },
+            {
+                "caracteristica1": "Segurança",
+                "detalhes1": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+            }
+        ],
+
+        "detalhes2": [
+            {
+                "caracteristica2": "Desempenho",
+                "detalhes2": "suave de aplicativos e jogos"
+            },
+            {
+                "caracteristica2": "Câmeras",
+                "detalhes2": "Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
+            },
+            {
+                "caracteristica2": "Tela",
+                "detalhes2": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
+            },
+            {
+                "caracteristica2": "Design",
+                "detalhes2": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+            },
+            {
+                "caracteristica2": "Bateria",
+                "detalhes2": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+            },
+            {
+                "caracteristica2": "Sistema Operacional",
+                "detalhes2": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+            },
+            {
+                "caracteristica2": "Conectividade",
+                "detalhes2": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
+            },
+            {
+                "caracteristica2": "Segurança",
+                "detalhes2": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+            }
+        ]
+
     },
     {
         "id": 3,
@@ -105,9 +182,8 @@
                 "caracteristica": "Resolução",
                 "detalhes": "Capaz de suportar até 120 frames por segundo para uma jogabilidade ultrafluida"
             }
-        ],
-        "preco": 3999.99,
-        "preco_promocional": 3799.99
+        ]
+
     },
     {
         "id": 4,
@@ -155,9 +231,7 @@
                 "caracteristica": "Segurança",
                 "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
             }
-        ],
-        "preco": 8999.99,
-        "preco_promocional": 8699.99
+        ]
     },
     {
         "id": 5,
@@ -205,9 +279,7 @@
                 "caracteristica": "Segurança",
                 "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
             }
-        ],
-        "preco": 8999.99,
-        "preco_promocional": 8699.99
+        ]
     },
     {
         "id": 6,
@@ -255,8 +327,6 @@
                 "caracteristica": "Segurança",
                 "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
             }
-        ],
-        "preco": 8999.99,
-        "preco_promocional": 8699.99
+        ]
     }
 ]

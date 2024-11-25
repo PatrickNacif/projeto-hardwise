@@ -17,17 +17,37 @@ if (jogo){
     $("#nome-detalhe").html(jogo.nome);
     $("#descricao-detalhe").html(jogo.descricao);
 
-    var tabelaDetalhes = $("#tabdetalhes");
-
-    jogo.detalhes.forEach(detalhe=> {
+    // PREENCHER TABELA 0
+    var tabelaDetalhes0 = $("#tabdetalhes0");
+    jogo.detalhes.forEach(detalhe => {
         var linha = `
         <tr>
             <td>${detalhe.caracteristica}</td>
             <td>${detalhe.detalhes}</td>
-        </tr>
-        `;
+        </tr>`;
+        tabelaDetalhes0.append(linha);
+    });
 
-        tabelaDetalhes.append(linha);
+    // PREENCHER TABELA 1
+    var tabelaDetalhes1 = $("#tabdetalhes1");
+    jogo.detalhes1.forEach(detalhe1 => {
+        var linha1 = `
+        <tr>
+            <td>${detalhe1.caracteristica1}</td>
+            <td>${detalhe1.detalhes1}</td>
+        </tr>`;
+        tabelaDetalhes1.append(linha1);
+    });
+
+    // PREENCHER TABELA 2
+    var tabelaDetalhes2 = $("#tabdetalhes2");
+    jogo.detalhes2.forEach(detalhe2 => {
+        var linha2 = `
+        <tr>
+            <td>${detalhe2.caracteristica2}</td>
+            <td>${detalhe2.detalhes2}</td>
+        </tr>`;
+        tabelaDetalhes2.append(linha2);
     });
 
 }
