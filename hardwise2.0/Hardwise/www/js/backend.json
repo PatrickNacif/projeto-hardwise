@@ -7,43 +7,7 @@
         "rating": 4.5,
         "likes": "91%",
         "reviews": 25,
-        "descricao": "Experimente a liberdade musical sem limites com os AirPods! Conectividade instantânea, som cristalino e design elegante. Viva a experiência sem fios que redefine a maneira como você ouve música. AirPods: a revolução do áudio sem esforço.",
-        "detalhes": [
-            {
-                "caracteristica": "Conectividade",
-                "detalhes": "Bluetooth 5.0 para conexão rápida e estável"
-            },
-            {
-                "caracteristica": "Qualidade de Som",
-                "detalhes": "Áudio nítido e envolvente com tecnologia de cancelamento de ruído"
-            },
-            {
-                "caracteristica": "Design",
-                "detalhes": "Ergonômico e discreto, se encaixa perfeitamente no ouvido"
-            },
-            {
-                "caracteristica": "Bateria",
-                "detalhes": "Autonomia de até 5 horas de reprodução contínua, com estojo de carregamento"
-            },
-            {
-                "caracteristica": "Controles",
-                "detalhes": "Toque intuitivo para reprodução, pausa e atendimento de chamadas"
-            },
-            {
-                "caracteristica": "Compatibilidade",
-                "detalhes": "Compatível com dispositivos iOS, Android e outros equipamentos com Bluetooth"
-            },
-            {
-                "caracteristica": "Sensores",
-                "detalhes": "Sensores integrados para pausa automática ao remover dos ouvidos"
-            },
-            {
-                "caracteristica": "Resistência",
-                "detalhes": "Resistente a respingos e suor, ideal para uso durante exercícios físicos"
-            }
-        ],
-        "preco": 239.99,
-        "preco_promocional": 229.99
+        "descricao": "Valorant é um jogo de tiro tático em primeira pessoa da Riot Games, lançado em 2020. Combinando armas tradicionais e habilidades únicas de agentes, ele exige estratégia, precisão e trabalho em equipe. Inspirado por Counter-Strike e Overwatch, destaca-se pelo equilíbrio competitivo e crescente sucesso nos esportes eletrônicos."
     },
     {
         "id": 2,
@@ -53,7 +17,7 @@
         "rating": 3.8,
         "likes": "94%",
         "reviews": 15,
-        "descricao": "Explore o futuro da tecnologia com o iPhone 15 Pro Max. Desempenho excepcional, câmeras revolucionárias, e uma tela impressionante. Experimente a inovação nas suas mãos com design elegante e recursos avançados. iPhone 15 Pro Max - a evolução definitiva da experiência móvel.",
+        "descricao": "GTA V é um jogo de ação e aventura da Rockstar Games, lançado em 2013. Ambientado em Los Santos, segue três personagens: Michael, Trevor e Franklin, em uma jornada de crimes e caos. Com um vasto mundo aberto e um modo multiplayer online, é um dos jogos mais vendidos e aclamados de todos os tempos.",
         "detalhes": [
             {
                 "caracteristica": "Desempenho",
@@ -103,7 +67,7 @@
         "rating": 4.5,
         "likes": "96%",
         "reviews": 25,
-        "descricao": "Explore o ápice do entretenimento gamer com o Xbox Series X. Desfrute de desempenho inigualável, gráficos de última geração e uma experiência imersiva como nunca antes. Xbox Series X - o futuro dos jogos está em suas mãos.",
+        "descricao": "Red Dead Redemption é um jogo de ação e aventura da Rockstar Games, lançado em 2010. Ambientado no Velho Oeste, segue a história de John Marston, um ex-criminoso que busca capturar antigos parceiros para salvar sua família. Com um mundo aberto imersivo, missões emocionantes e uma rica narrativa, o jogo é aclamado por sua jogabilidade e ambientação detalhada.",
         "detalhes": [
             {
                 "caracteristica": "Desempenho",
@@ -153,7 +117,7 @@
         "rating": 4.8,
         "likes": "89%",
         "reviews": 30,
-        "descricao": "Eleve sua produtividade ao próximo nível com o MacBook Pro 2023. Desempenho excepcional, design elegante e a confiabilidade que você espera da Apple. MacBook Pro 2023 - a escolha definitiva para profissionais criativos e usuários exigentes.",
+        "descricao": "Black Myth: Wukong é um jogo de ação e aventura baseado na mitologia chinesa, focado no personagem Sun Wukong, o Rei Macaco. Desenvolvido pela Game Science, o jogo apresenta um mundo aberto e combate dinâmico, misturando elementos de ação, exploração e mitologia. O jogador assume o papel de Wukong, que possui habilidades mágicas e transformações, enfrentando inimigos e desafios inspirados no clássico literário Jornada ao Oeste. O jogo tem gerado grande expectativa por seus gráficos impressionantes e jogabilidade envolvente.",
         "detalhes": [
             {
                 "caracteristica": "Desempenho",
@@ -203,7 +167,7 @@
         "rating": 4.8,
         "likes": "89%",
         "reviews": 30,
-        "descricao": "Eleve sua produtividade ao próximo nível com o MacBook Pro 2023. Desempenho excepcional, design elegante e a confiabilidade que você espera da Apple. MacBook Pro 2023 - a escolha definitiva para profissionais criativos e usuários exigentes.",
+        "descricao": "Dragon Ball Sparking é uma série de jogos de luta baseada no anime Dragon Ball. Lançado para PlayStation 2 e Wii, o título é conhecido por suas lutas dinâmicas e gráficos em 3D, permitindo aos jogadores controlar personagens icônicos como Goku e Vegeta em batalhas intensas. O jogo inclui uma história baseada no anime e oferece modos de combate e multiplayer.",
         "detalhes": [
             {
                 "caracteristica": "Desempenho",
@@ -253,7 +217,7 @@
         "rating": 4.8,
         "likes": "89%",
         "reviews": 30,
-        "descricao": "Eleve sua produtividade ao próximo nível com o MacBook Pro 2023. Desempenho excepcional, design elegante e a confiabilidade que você espera da Apple. MacBook Pro 2023 - a escolha definitiva para profissionais criativos e usuários exigentes.",
+        "descricao": "Call of Duty: Black Ops Cold War (lançado em 2020) é um jogo de tiro em primeira pessoa da Activision, ambientado durante a Guerra Fria. O jogo segue uma trama de espionagem envolvendo missões clandestinas e conflitos globais. Ele traz uma campanha single-player, modos multiplayer e o popular modo de zumbis. A ação intensa e o foco no combate tático tornaram o jogo um sucesso entre os fãs da série.",
         "detalhes": [
             {
                 "caracteristica": "Desempenho",
