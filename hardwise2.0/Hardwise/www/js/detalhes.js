@@ -17,6 +17,19 @@ if (jogo){
     $("#nome-detalhe").html(jogo.nome);
     $("#descricao-detalhe").html(jogo.descricao);
 
+    var tabelaDetalhes = $("#tabdetalhes");
+
+    jogo.detalhes.forEach(detalhe=> {
+        var linha = `
+        <tr>
+            <td>${detalhe.caracteristica}</td>
+            <td>${detalhe.detalhes}</td>
+        </tr>
+        `;
+
+        tabelaDetalhes.append(linha);
+    });
+
 }
 else {
     //NAO TEM O ITEM
