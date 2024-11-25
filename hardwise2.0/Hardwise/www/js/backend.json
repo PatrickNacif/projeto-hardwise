@@ -3,330 +3,601 @@
         "id": 1,
         "imagem": "img/Valorant-Logo-PNG-Photo.png",
         "nome": "Valorant",
-        "principal_caracteristica": "Branco",
-        "rating": 4.5,
-        "likes": "91%",
-        "reviews": 25,
-        "descricao": "Valorant é um jogo de tiro tático em primeira pessoa da Riot Games, lançado em 2020. Combinando armas tradicionais e habilidades únicas de agentes, ele exige estratégia, precisão e trabalho em equipe. Inspirado por Counter-Strike e Overwatch, destaca-se pelo equilíbrio competitivo e crescente sucesso nos esportes eletrônicos."
-    },
-    {
-        "id": 2,
-        "imagem": "img/gta-v-logo.png",
-        "nome": "GTA V",
-        "principal_caracteristica": "2 TB",
-        "rating": 3.8,
-        "likes": "94%",
-        "reviews": 15,
-        "descricao": "GTA V é um jogo de ação e aventura da Rockstar Games, lançado em 2013. Ambientado em Los Santos, segue três personagens: Michael, Trevor e Franklin, em uma jornada de crimes e caos. Com um vasto mundo aberto e um modo multiplayer online, é um dos jogos mais vendidos e aclamados de todos os tempos.",
+        "descricao": "Valorant é um jogo de tiro tático em primeira pessoa da Riot Games, lançado em 2020. Combinando armas tradicionais e habilidades únicas de agentes, ele exige estratégia, precisão e trabalho em equipe. Inspirado por Counter-Strike e Overwatch, destaca-se pelo equilíbrio competitivo e crescente sucesso nos esportes eletrônicos.",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Potente processador A16 para execução suave de aplicativos e jogos"
+                "caracteristica": "Placa de Video",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Câmeras",
-                "detalhes": "Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
-            },
-            {
-                "caracteristica": "Tela",
-                "detalhes": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
-            },
-            {
-                "caracteristica": "Design",
-                "detalhes": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+                "caracteristica": "Processador",
+                "detalhes": ""
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+                "detalhes": ""
             },
             {
-                "caracteristica": "Bateria",
-                "detalhes": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+                "caracteristica": "Fonte",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Sistema Operacional",
-                "detalhes": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+                "caracteristica": "Memoria Ram",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
+                "caracteristica": "Placa Mãe",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Segurança",
-                "detalhes": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": ""
             }
+      
         ],
 
         "detalhes1": [
             {
-                "caracteristica1": "Pika",
-                "detalhes1": "kjshshafh A16 para execução suave de aplicativos e jogos"
+                "caracteristica1": "Placa de Video",
+                "detalhes1": ""
             },
             {
-                "caracteristica1": "Câmeras",
-                "detalhes1": "dkfkljfdskfdkls Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
-            },
-            {
-                "caracteristica1": "Tela",
-                "detalhes1": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
-            },
-            {
-                "caracteristica1": "Design",
-                "detalhes1": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+                "caracteristica1": "Processador",
+                "detalhes1": ""
             },
             {
                 "caracteristica1": "Armazenamento",
-                "detalhes1": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+                "detalhes1": ""
             },
             {
-                "caracteristica1": "Bateria",
-                "detalhes1": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+                "caracteristica1": "Fonte",
+                "detalhes1": ""
             },
             {
-                "caracteristica1": "Sistema Operacional",
-                "detalhes1": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": ""
             },
             {
-                "caracteristica1": "Conectividade",
-                "detalhes1": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": ""
             },
             {
-                "caracteristica1": "Segurança",
-                "detalhes1": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": ""
             }
         ],
 
         "detalhes2": [
             {
-                "caracteristica2": "Desempenho",
-                "detalhes2": "suave de aplicativos e jogos"
+                "caracteristica2": "Placa de Video",
+                "detalhes2": ""
             },
             {
-                "caracteristica2": "Câmeras",
-                "detalhes2": "Sistema de câmera tripla com tecnologia avançada para capturas incríveis em qualquer ambiente"
-            },
-            {
-                "caracteristica2": "Tela",
-                "detalhes2": "Display Super Retina XDR de 6.7 polegadas com resolução nítida e cores vibrantes"
-            },
-            {
-                "caracteristica2": "Design",
-                "detalhes2": "Corpo elegante em materiais premium, combinando estilo e durabilidade"
+                "caracteristica2": "Processador",
+                "detalhes2": ""
             },
             {
                 "caracteristica2": "Armazenamento",
-                "detalhes2": "Opções generosas de armazenamento interno para suas fotos, vídeos e aplicativos"
+                "detalhes2": ""
             },
             {
-                "caracteristica2": "Bateria",
-                "detalhes2": "Longa duração de bateria para acompanhar seu dia a dia sem preocupações"
+                "caracteristica2": "Fonte",
+                "detalhes2": ""
             },
             {
-                "caracteristica2": "Sistema Operacional",
-                "detalhes2": "Integração perfeita com o iOS, oferecendo a última versão do sistema operacional"
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": ""
             },
             {
-                "caracteristica2": "Conectividade",
-                "detalhes2": "Recursos avançados, incluindo 5G para uma conexão ultrarrápida"
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": ""
             },
             {
-                "caracteristica2": "Segurança",
-                "detalhes2": "Recursos de segurança avançados, incluindo reconhecimento facial e autenticação biométrica"
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": ""
             }
         ]
+        
+    },
+    {
+        "id": 2,
+        "imagem": "img/gta-v-logo.png",
+        "nome": "GTA V",
+        "descricao": "GTA V é um jogo de ação e aventura da Rockstar Games, lançado em 2013. Ambientado em Los Santos, segue três personagens: Michael, Trevor e Franklin, em uma jornada de crimes e caos. Com um vasto mundo aberto e um modo multiplayer online, é um dos jogos mais vendidos e aclamados de todos os tempos.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": ""
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": ""
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": ""
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": ""
+            },
+            {
+                "caracteristica": "Memoria Ram",
+                "detalhes": ""
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": ""
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": ""
+            }
+      
+        ],
 
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": ""
+            }
+        ],
+
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": ""
+            }
+        ]
+        
     },
     {
         "id": 3,
         "imagem": "img/pngimg.com - red_dead_redemption_PNG20.png",
         "nome": "Red Dead Redemption",
-        "principal_caracteristica": "1 TB",
-        "rating": 4.5,
-        "likes": "96%",
-        "reviews": 25,
         "descricao": "Red Dead Redemption é um jogo de ação e aventura da Rockstar Games, lançado em 2010. Ambientado no Velho Oeste, segue a história de John Marston, um ex-criminoso que busca capturar antigos parceiros para salvar sua família. Com um mundo aberto imersivo, missões emocionantes e uma rica narrativa, o jogo é aclamado por sua jogabilidade e ambientação detalhada.",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Processador customizado para oferecer jogabilidade suave e gráficos impressionantes"
+                "caracteristica": "Placa de Video",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Gráficos",
-                "detalhes": "Capacidade de reprodução em 4K real, proporcionando visuais incrivelmente detalhados"
+                "caracteristica": "Processador",
+                "detalhes": ""
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": "SSD ultra rápido para carregamento instantâneo de jogos e experiência sem lag"
+                "detalhes": ""
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Design arrojado e compacto, complementando qualquer setup gamer"
+                "caracteristica": "Fonte",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Controle",
-                "detalhes": "Controle sem fio avançado com tecnologia Bluetooth e gatilhos adaptativos"
+                "caracteristica": "Memoria Ram",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Biblioteca de Jogos",
-                "detalhes": "Acesso a uma ampla variedade de jogos, incluindo títulos exclusivos do Xbox Game Studios"
+                "caracteristica": "Placa Mãe",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Compatibilidade",
-                "detalhes": "Compatibilidade retroativa com jogos de Xbox One, Xbox 360 e Xbox original"
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": ""
+            }
+      
+        ],
+
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Conectividade online estável para experiência multiplayer sem interrupções"
+                "caracteristica1": "Processador",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Resolução",
-                "detalhes": "Capaz de suportar até 120 frames por segundo para uma jogabilidade ultrafluida"
+                "caracteristica1": "Armazenamento",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": ""
+            }
+        ],
+
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": ""
             }
         ]
-
+        
     },
     {
         "id": 4,
         "imagem": "img/Wukong-PNG.png",
         "nome": "Black Myth Wukong",
-        "principal_caracteristica": "512 GB 16GB RAM",
-        "rating": 4.8,
-        "likes": "89%",
-        "reviews": 30,
         "descricao": "Black Myth: Wukong é um jogo de ação e aventura baseado na mitologia chinesa, focado no personagem Sun Wukong, o Rei Macaco. Desenvolvido pela Game Science, o jogo apresenta um mundo aberto e combate dinâmico, misturando elementos de ação, exploração e mitologia. O jogador assume o papel de Wukong, que possui habilidades mágicas e transformações, enfrentando inimigos e desafios inspirados no clássico literário Jornada ao Oeste. O jogo tem gerado grande expectativa por seus gráficos impressionantes e jogabilidade envolvente.",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Processador M2 personalizado para velocidade e eficiência superiores"
+                "caracteristica": "Placa de Video",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Tela",
-                "detalhes": "Tela Retina de 14 polegadas com cores vibrantes e resolução surpreendente"
+                "caracteristica": "Processador",
+                "detalhes": ""
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": "SSD de alta capacidade para armazenar e acessar seus arquivos com rapidez"
+                "detalhes": ""
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Corpo de alumínio elegante e ultrafino, combinando estilo e portabilidade"
+                "caracteristica": "Fonte",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Teclado",
-                "detalhes": "Teclado Magic Keyboard retroiluminado para digitação confortável em qualquer ambiente"
+                "caracteristica": "Memoria Ram",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Bateria",
-                "detalhes": "Bateria de longa duração para acompanhar seu dia de trabalho sem interrupções"
+                "caracteristica": "Placa Mãe",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Sistema Operacional",
-                "detalhes": "Integração perfeita com o macOS, oferecendo uma experiência fluida e intuitiva"
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": ""
+            }
+      
+        ],
+
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Portas Thunderbolt para transferências de dados ultrarrápidas e conectividade versátil"
+                "caracteristica1": "Processador",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Segurança",
-                "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
+                "caracteristica1": "Armazenamento",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": ""
+            }
+        ],
+
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": ""
             }
         ]
+        
     },
     {
         "id": 5,
         "imagem": "img/sparking.png",
         "nome": "Dragon Ball Sparking",
-        "principal_caracteristica": "512 GB 16GB RAM",
-        "rating": 4.8,
-        "likes": "89%",
-        "reviews": 30,
         "descricao": "Dragon Ball Sparking é uma série de jogos de luta baseada no anime Dragon Ball. Lançado para PlayStation 2 e Wii, o título é conhecido por suas lutas dinâmicas e gráficos em 3D, permitindo aos jogadores controlar personagens icônicos como Goku e Vegeta em batalhas intensas. O jogo inclui uma história baseada no anime e oferece modos de combate e multiplayer.",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Processador M2 personalizado para velocidade e eficiência superiores"
+                "caracteristica": "Placa de Video",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Tela",
-                "detalhes": "Tela Retina de 14 polegadas com cores vibrantes e resolução surpreendente"
+                "caracteristica": "Processador",
+                "detalhes": ""
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": "SSD de alta capacidade para armazenar e acessar seus arquivos com rapidez"
+                "detalhes": ""
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Corpo de alumínio elegante e ultrafino, combinando estilo e portabilidade"
+                "caracteristica": "Fonte",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Teclado",
-                "detalhes": "Teclado Magic Keyboard retroiluminado para digitação confortável em qualquer ambiente"
+                "caracteristica": "Memoria Ram",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Bateria",
-                "detalhes": "Bateria de longa duração para acompanhar seu dia de trabalho sem interrupções"
+                "caracteristica": "Placa Mãe",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Sistema Operacional",
-                "detalhes": "Integração perfeita com o macOS, oferecendo uma experiência fluida e intuitiva"
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": ""
+            }
+      
+        ],
+
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Portas Thunderbolt para transferências de dados ultrarrápidas e conectividade versátil"
+                "caracteristica1": "Processador",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Segurança",
-                "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
+                "caracteristica1": "Armazenamento",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": ""
+            }
+        ],
+
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": ""
             }
         ]
+        
     },
     {
         "id": 6,
         "imagem": "img/call-of-duuty-black-ops-62843.logowik.com-removebg-preview.png",
         "nome": "Call of Duty Balck Ops 6",
         "principal_caracteristica": "512 GB 16GB RAM",
-        "rating": 4.8,
-        "likes": "89%",
-        "reviews": 30,
         "descricao": "Call of Duty: Black Ops Cold War (lançado em 2020) é um jogo de tiro em primeira pessoa da Activision, ambientado durante a Guerra Fria. O jogo segue uma trama de espionagem envolvendo missões clandestinas e conflitos globais. Ele traz uma campanha single-player, modos multiplayer e o popular modo de zumbis. A ação intensa e o foco no combate tático tornaram o jogo um sucesso entre os fãs da série.",
         "detalhes": [
             {
-                "caracteristica": "Desempenho",
-                "detalhes": "Processador M2 personalizado para velocidade e eficiência superiores"
+                "caracteristica": "Placa de Video",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Tela",
-                "detalhes": "Tela Retina de 14 polegadas com cores vibrantes e resolução surpreendente"
+                "caracteristica": "Processador",
+                "detalhes": ""
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": "SSD de alta capacidade para armazenar e acessar seus arquivos com rapidez"
+                "detalhes": ""
             },
             {
-                "caracteristica": "Design",
-                "detalhes": "Corpo de alumínio elegante e ultrafino, combinando estilo e portabilidade"
+                "caracteristica": "Fonte",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Teclado",
-                "detalhes": "Teclado Magic Keyboard retroiluminado para digitação confortável em qualquer ambiente"
+                "caracteristica": "Memoria Ram",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Bateria",
-                "detalhes": "Bateria de longa duração para acompanhar seu dia de trabalho sem interrupções"
+                "caracteristica": "Placa Mãe",
+                "detalhes": ""
             },
             {
-                "caracteristica": "Sistema Operacional",
-                "detalhes": "Integração perfeita com o macOS, oferecendo uma experiência fluida e intuitiva"
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": ""
+            }
+      
+        ],
+
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Conectividade",
-                "detalhes": "Portas Thunderbolt para transferências de dados ultrarrápidas e conectividade versátil"
+                "caracteristica1": "Processador",
+                "detalhes1": ""
             },
             {
-                "caracteristica": "Segurança",
-                "detalhes": "Recursos avançados, incluindo Touch ID para desbloqueio seguro e pagamentos"
+                "caracteristica1": "Armazenamento",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": ""
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": ""
+            }
+        ],
+
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": ""
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": ""
             }
         ]
+        
     }
 ]
