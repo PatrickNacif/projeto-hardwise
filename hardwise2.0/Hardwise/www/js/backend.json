@@ -7,97 +7,93 @@
         "detalhes": [
             {
                 "caracteristica": "Placa de Video",
-                "detalhes": ""
+                "detalhes": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560"
             },
             {
                 "caracteristica": "Processador",
-                "detalhes": ""
+                "detalhes": "Intel i5-9400F ou AMD Ryzen 5 3600"
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": ""
+                "detalhes": "20 GB de espaço livre em SSD, recomendável NVMe para maior velocidade"
             },
             {
                 "caracteristica": "Fonte",
-                "detalhes": ""
+                "detalhes": "500W com certificação 80 Plus Bronze"
             },
             {
                 "caracteristica": "Memoria Ram",
-                "detalhes": ""
+                "detalhes": "16 GB em dual-channel (2x8 GB)"
             },
             {
                 "caracteristica": "Placa Mãe",
-                "detalhes": ""
+                "detalhes": "Chipset B360 (Intel) ou B450 (AMD) compatível com os processadores recomendados"
             },
             {
                 "caracteristica": "Sistema de Resfriamento",
-                "detalhes": ""
+                "detalhes": "Cooler tower ou líquido básico, como Hyper 212 ou similar"
             }
-      
         ],
-
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
-                "detalhes1": ""
+                "detalhes1": "NVIDIA GeForce GT 730 ou AMD Radeon R7 240"
             },
             {
                 "caracteristica1": "Processador",
-                "detalhes1": ""
+                "detalhes1": "Intel i3-4150 ou AMD Ryzen 3 1200"
             },
             {
                 "caracteristica1": "Armazenamento",
-                "detalhes1": ""
+                "detalhes1": "20 GB de espaço livre no HDD ou SSD (preferencialmente SSD para carregamento mais rápido)"
             },
             {
                 "caracteristica1": "Fonte",
-                "detalhes1": ""
+                "detalhes1": "400W com certificação 80 Plus"
             },
             {
                 "caracteristica1": "Memoria Ram",
-                "detalhes1": ""
+                "detalhes1": "8 GB"
             },
             {
                 "caracteristica1": "Placa Mãe",
-                "detalhes1": ""
+                "detalhes1": "Chipset H81 (Intel) ou A320 (AMD) compatível com os processadores recomendados"
             },
             {
                 "caracteristica1": "Sistema de Resfriamento",
-                "detalhes1": ""
+                "detalhes1": "Cooler padrão para CPU, suficiente para desempenho médio"
             }
         ],
-
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
-                "detalhes2": ""
+                "detalhes2": "Intel HD Graphics 3000 integrada ou Radeon R5 200"
             },
             {
                 "caracteristica2": "Processador",
-                "detalhes2": ""
+                "detalhes2": "Intel Core 2 Duo E8400 ou AMD Athlon 200GE"
             },
             {
                 "caracteristica2": "Armazenamento",
-                "detalhes2": ""
+                "detalhes2": "20 GB de espaço livre no disco rígido (HDD)"
             },
             {
                 "caracteristica2": "Fonte",
-                "detalhes2": ""
+                "detalhes2": "350W com eficiência 80 Plus (básica para hardware de baixo consumo)"
             },
             {
                 "caracteristica2": "Memoria Ram",
-                "detalhes2": ""
+                "detalhes2": "4 GB"
             },
             {
                 "caracteristica2": "Placa Mãe",
-                "detalhes2": ""
+                "detalhes2": "Compatível com processadores Core 2 Duo ou Athlon 200GE (exemplo: chipset Intel G41 ou AMD AM4 básico)"
             },
             {
                 "caracteristica2": "Sistema de Resfriamento",
-                "detalhes2": ""
+                "detalhes2": "Cooler de fábrica para CPU, suficiente para PCs básicos"
             }
         ]
-        
     },
     {
         "id": 2,
@@ -107,97 +103,93 @@
         "detalhes": [
             {
                 "caracteristica": "Placa de Video",
-                "detalhes": ""
+                "detalhes": "NVIDIA GeForce RTX 3060 ou AMD Radeon RX 6700 XT"
             },
             {
                 "caracteristica": "Processador",
-                "detalhes": ""
+                "detalhes": "Intel Core i7-12700 ou AMD Ryzen 7 5800X"
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": ""
+                "detalhes": "SSD de 120 GB com 80 GB livres para o jogo"
             },
             {
                 "caracteristica": "Fonte",
-                "detalhes": ""
+                "detalhes": "750W, 80 Plus Gold"
             },
             {
-                "caracteristica": "Memoria Ram",
-                "detalhes": ""
+                "caracteristica": "Memória Ram",
+                "detalhes": "16 GB DDR4 3200 MHz ou superior"
             },
             {
                 "caracteristica": "Placa Mãe",
-                "detalhes": ""
+                "detalhes": "Compatível com PCIe 4.0 e suporte a processadores modernos"
             },
             {
                 "caracteristica": "Sistema de Resfriamento",
-                "detalhes": ""
+                "detalhes": "Watercooler de 240 mm ou air cooler de alta performance"
             }
-      
         ],
-
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
-                "detalhes1": ""
+                "detalhes1": "NVIDIA GeForce GTX 1660 Super ou AMD Radeon RX 590"
             },
             {
                 "caracteristica1": "Processador",
-                "detalhes1": ""
+                "detalhes1": "Intel Core i5-10400 ou AMD Ryzen 5 3600"
             },
             {
                 "caracteristica1": "Armazenamento",
-                "detalhes1": ""
+                "detalhes1": "HDD de 1 TB (7200 RPM) ou SSD básico com 80 GB livres"
             },
             {
                 "caracteristica1": "Fonte",
-                "detalhes1": ""
+                "detalhes1": "600W, 80 Plus Bronze"
             },
             {
-                "caracteristica1": "Memoria Ram",
-                "detalhes1": ""
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "8 GB DDR4 2666 MHz"
             },
             {
                 "caracteristica1": "Placa Mãe",
-                "detalhes1": ""
+                "detalhes1": "Placa-mãe básica com suporte a DDR4 e PCIe 3.0"
             },
             {
                 "caracteristica1": "Sistema de Resfriamento",
-                "detalhes1": ""
+                "detalhes1": "Air cooler padrão para processador"
             }
         ],
-
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
-                "detalhes2": ""
+                "detalhes2": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560"
             },
             {
                 "caracteristica2": "Processador",
-                "detalhes2": ""
+                "detalhes2": "Intel Core i3-8100 ou AMD Ryzen 3 1200"
             },
             {
                 "caracteristica2": "Armazenamento",
-                "detalhes2": ""
+                "detalhes2": "HDD de 500 GB (5400 RPM) com 80 GB livres"
             },
             {
                 "caracteristica2": "Fonte",
-                "detalhes2": ""
+                "detalhes2": "450W, 80 Plus White"
             },
             {
-                "caracteristica2": "Memoria Ram",
-                "detalhes2": ""
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8 GB DDR4 2133 MHz"
             },
             {
                 "caracteristica2": "Placa Mãe",
-                "detalhes2": ""
+                "detalhes2": "Placa-mãe econômica com suporte a DDR4"
             },
             {
                 "caracteristica2": "Sistema de Resfriamento",
-                "detalhes2": ""
+                "detalhes2": "Cooler padrão do processador (stock cooler)"
             }
         ]
-        
     },
     {
         "id": 3,
@@ -222,7 +214,7 @@
                 "detalhes": ""
             },
             {
-                "caracteristica": "Memoria Ram",
+                "caracteristica": "Memória Ram",
                 "detalhes": ""
             },
             {
@@ -233,9 +225,7 @@
                 "caracteristica": "Sistema de Resfriamento",
                 "detalhes": ""
             }
-      
         ],
-
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
@@ -254,7 +244,7 @@
                 "detalhes1": ""
             },
             {
-                "caracteristica1": "Memoria Ram",
+                "caracteristica1": "Memória Ram",
                 "detalhes1": ""
             },
             {
@@ -266,7 +256,6 @@
                 "detalhes1": ""
             }
         ],
-
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
@@ -285,7 +274,7 @@
                 "detalhes2": ""
             },
             {
-                "caracteristica2": "Memoria Ram",
+                "caracteristica2": "Memória Ram",
                 "detalhes2": ""
             },
             {
@@ -297,7 +286,6 @@
                 "detalhes2": ""
             }
         ]
-        
     },
     {
         "id": 4,
@@ -322,7 +310,7 @@
                 "detalhes": ""
             },
             {
-                "caracteristica": "Memoria Ram",
+                "caracteristica": "Memória Ram",
                 "detalhes": ""
             },
             {
@@ -333,9 +321,7 @@
                 "caracteristica": "Sistema de Resfriamento",
                 "detalhes": ""
             }
-      
         ],
-
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
@@ -354,7 +340,7 @@
                 "detalhes1": ""
             },
             {
-                "caracteristica1": "Memoria Ram",
+                "caracteristica1": "Memória Ram",
                 "detalhes1": ""
             },
             {
@@ -366,7 +352,6 @@
                 "detalhes1": ""
             }
         ],
-
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
@@ -385,7 +370,7 @@
                 "detalhes2": ""
             },
             {
-                "caracteristica2": "Memoria Ram",
+                "caracteristica2": "Memória Ram",
                 "detalhes2": ""
             },
             {
@@ -397,7 +382,6 @@
                 "detalhes2": ""
             }
         ]
-        
     },
     {
         "id": 5,
@@ -422,7 +406,7 @@
                 "detalhes": ""
             },
             {
-                "caracteristica": "Memoria Ram",
+                "caracteristica": "Memória Ram",
                 "detalhes": ""
             },
             {
@@ -433,9 +417,7 @@
                 "caracteristica": "Sistema de Resfriamento",
                 "detalhes": ""
             }
-      
         ],
-
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
@@ -454,7 +436,7 @@
                 "detalhes1": ""
             },
             {
-                "caracteristica1": "Memoria Ram",
+                "caracteristica1": "Memória Ram",
                 "detalhes1": ""
             },
             {
@@ -466,7 +448,6 @@
                 "detalhes1": ""
             }
         ],
-
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
@@ -485,7 +466,7 @@
                 "detalhes2": ""
             },
             {
-                "caracteristica2": "Memoria Ram",
+                "caracteristica2": "Memória Ram",
                 "detalhes2": ""
             },
             {
@@ -497,7 +478,6 @@
                 "detalhes2": ""
             }
         ]
-        
     },
     {
         "id": 6,
@@ -523,7 +503,7 @@
                 "detalhes": ""
             },
             {
-                "caracteristica": "Memoria Ram",
+                "caracteristica": "Memória Ram",
                 "detalhes": ""
             },
             {
@@ -534,9 +514,7 @@
                 "caracteristica": "Sistema de Resfriamento",
                 "detalhes": ""
             }
-      
         ],
-
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
@@ -555,7 +533,7 @@
                 "detalhes1": ""
             },
             {
-                "caracteristica1": "Memoria Ram",
+                "caracteristica1": "Memória Ram",
                 "detalhes1": ""
             },
             {
@@ -567,7 +545,6 @@
                 "detalhes1": ""
             }
         ],
-
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
@@ -586,7 +563,7 @@
                 "detalhes2": ""
             },
             {
-                "caracteristica2": "Memoria Ram",
+                "caracteristica2": "Memória Ram",
                 "detalhes2": ""
             },
             {
@@ -598,6 +575,5 @@
                 "detalhes2": ""
             }
         ]
-        
     }
 ]
