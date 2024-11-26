@@ -1785,5 +1785,197 @@
                 "detalhes2": "Cooler stock"
             }
         ]
+    },
+    {
+        "id": 19,
+        "imagem": "img/God of War Ragnarök.png",
+        "nome": "God of War Ragnarök",
+        "descricao": "God of War Ragnarök é a sequência direta do aclamado God of War (2018), acompanhando Kratos e Atreus em sua jornada pelos reinos nórdicos enquanto tentam evitar o apocalipse conhecido como Ragnarök. Agora mais velho e questionador, Atreus busca entender seu papel como Loki, enquanto Kratos tenta protegê-lo e confrontar seu próprio passado violento. O jogo combina narrativa emocionante, combate visceral e exploração em mundos lindamente detalhados, com novos aliados e inimigos, incluindo deuses icônicos da mitologia nórdica como Thor e Odin. É uma história sobre família, destino e o custo das escolhas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-12900K ou AMD Ryzen 9 5900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 120 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "850W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5600 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X670E (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 2070 ou AMD Radeon RX 5700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-10700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 120 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B560 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-7600K ou AMD Ryzen 5 2600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 120 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "imagem": "img/Star Wars Jedi Survivor.png",
+        "nome": "Star Wars Jedi Survivor",
+        "descricao": "Star Wars Jedi: Survivor continua a jornada épica de Cal Kestis após os eventos de Jedi: Fallen Order. Agora mais experiente, Cal luta para sobreviver como um dos últimos Jedi enquanto enfrenta o Império Galáctico. O jogo combina combate com sabres de luz, habilidades da Força, exploração de planetas diversos e uma narrativa envolvente. Com gráficos aprimorados e novas mecânicas, a história mais madura explora o impacto da resistência, sacrifício e a luta por esperança em tempos sombrios.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 155 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 2070 ou AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 155 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1070 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 3 3100"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 155 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
     }
 ]
