@@ -20,14 +20,19 @@ body {
 
 .botao-container {
   display: flex;
-  flex-direction: column; /* Alinha os botões em coluna */
-  align-items: center; /* Centraliza os botões horizontalmente */
+  flex-direction: column;
+  /* Alinha os botões em coluna */
+  align-items: center;
+  /* Centraliza os botões horizontalmente */
 }
+
 .button-sobre i,
 .button-descarte i,
 .button-contato i {
-  margin-right: 10px; /* Ajuste a distância entre o ícone e o texto */
-  margin-left: -5px; /* Move o ícone um pouco para a esquerda */
+  margin-right: 10px;
+  /* Ajuste a distância entre o ícone e o texto */
+  margin-left: -5px;
+  /* Move o ícone um pouco para a esquerda */
 }
 
 
@@ -44,7 +49,7 @@ body {
   display: flex;
   width: 250px;
   justify-content: center;
-  margin: 18px ;
+  margin: 18px;
   align-items: center;
   transition: background-color 0.3s ease;
 }
@@ -66,5 +71,5 @@ body {
 h1,
 h2,
 h3 {
-  color: #145a9b;
+  color: #449df0;
 }

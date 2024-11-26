@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "imagem": "img/Valorant-Logo-PNG-Photo.png",
+        "imagem": "img/Valorant.png",
         "nome": "Valorant",
         "descricao": "Valorant é um jogo de tiro tático em primeira pessoa da Riot Games, lançado em 2020. Combinando armas tradicionais e habilidades únicas de agentes, ele exige estratégia, precisão e trabalho em equipe. Inspirado por Counter-Strike e Overwatch, destaca-se pelo equilíbrio competitivo e crescente sucesso nos esportes eletrônicos.",
         "detalhes": [
@@ -97,7 +97,7 @@
     },
     {
         "id": 2,
-        "imagem": "img/gta-v-logo.png",
+        "imagem": "img/GTAV.png",
         "nome": "GTA V",
         "descricao": "GTA V é um jogo de ação e aventura da Rockstar Games, lançado em 2013. Ambientado em Los Santos, segue três personagens: Michael, Trevor e Franklin, em uma jornada de crimes e caos. Com um vasto mundo aberto e um modo multiplayer online, é um dos jogos mais vendidos e aclamados de todos os tempos.",
         "detalhes": [
@@ -193,7 +193,7 @@
     },
     {
         "id": 3,
-        "imagem": "img/pngimg.com - red_dead_redemption_PNG20.png",
+        "imagem": "img/RedDeadRedemptionII.png",
         "nome": "Red Dead Redemption II",
         "descricao": "Red Dead Redemption II é um jogo de ação e aventura da Rockstar Games, lançado em 2010. Ambientado no Velho Oeste, segue a história de John Marston, um ex-criminoso que busca capturar antigos parceiros para salvar sua família. Com um mundo aberto imersivo, missões emocionantes e uma rica narrativa, o jogo é aclamado por sua jogabilidade e ambientação detalhada.",
         "detalhes": [
@@ -289,7 +289,7 @@
     },
     {
         "id": 4,
-        "imagem": "img/Wukong-PNG.png",
+        "imagem": "img/BlackMythWukong.png",
         "nome": "Black Myth Wukong",
         "descricao": "Black Myth: Wukong é um jogo de ação e aventura baseado na mitologia chinesa, focado no personagem Sun Wukong, o Rei Macaco. Desenvolvido pela Game Science, o jogo apresenta um mundo aberto e combate dinâmico, misturando elementos de ação, exploração e mitologia. O jogador assume o papel de Wukong, que possui habilidades mágicas e transformações, enfrentando inimigos e desafios inspirados no clássico literário Jornada ao Oeste. O jogo tem gerado grande expectativa por seus gráficos impressionantes e jogabilidade envolvente.",
         "detalhes": [
@@ -385,7 +385,7 @@
     },
     {
         "id": 5,
-        "imagem": "img/sparking.png",
+        "imagem": "img/DGBSparking.png",
         "nome": "Dragon Ball Sparking",
         "descricao": "Dragon Ball Sparking é uma série de jogos de luta baseada no anime Dragon Ball. Lançado para PlayStation 2 e Wii, o título é conhecido por suas lutas dinâmicas e gráficos em 3D, permitindo aos jogadores controlar personagens icônicos como Goku e Vegeta em batalhas intensas. O jogo inclui uma história baseada no anime e oferece modos de combate e multiplayer.",
         "detalhes": [
@@ -481,7 +481,7 @@
     },
     {
         "id": 6,
-        "imagem": "img/call-of-duuty-black-ops-62843.logowik.com-removebg-preview.png",
+        "imagem": "img/CallofDutyBlackOps6.png",
         "nome": "Call of Duty Balck Ops 6",
         "principal_caracteristica": "512 GB 16GB RAM",
         "descricao": "Call of Duty: Black Ops Cold War (lançado em 2020) é um jogo de tiro em primeira pessoa da Activision, ambientado durante a Guerra Fria. O jogo segue uma trama de espionagem envolvendo missões clandestinas e conflitos globais. Ele traz uma campanha single-player, modos multiplayer e o popular modo de zumbis. A ação intensa e o foco no combate tático tornaram o jogo um sucesso entre os fãs da série.",
@@ -578,7 +578,7 @@
     },
     {
         "id": 7,
-        "imagem": "img/Counter-Strike 2.png",
+        "imagem": "img/Counter-Strike2.png",
         "nome": "Counter-Strike 2",
         "descricao": "Counter-Strike 2 é a nova versão da série de jogos de tiro, lançada em 2023, baseada no motor Source 2. O jogo mantém a clássica dinâmica de equipes de terroristas e contra-terroristas, mas com gráficos e desempenho melhorados, além de novos mapas e recursos.",
         "detalhes": [
@@ -770,7 +770,7 @@
     },
     {
         "id": 9,
-        "imagem": "img/The Witcher.png",
+        "imagem": "img/TheWitcher.png",
         "nome": "The Witcher 3",
         "descricao": "The Witcher 3: Wild Hunt é um RPG de ação desenvolvido pela CD Projekt Red, onde o jogador assume o papel de Geralt de Rivia, um caçador de monstros em um mundo medieval aberto e vasto. O jogo é conhecido por sua narrativa profunda, escolhas que afetam o mundo e o desenvolvimento dos personagens, além de batalhas dinâmicas e um mundo imersivo repleto de misérias, mistérios e criaturas fantásticas.",
         "detalhes": [
@@ -962,7 +962,7 @@
     },
     {
         "id": 11,
-        "imagem": "img/the sims 4.png",
+        "imagem": "img/TheSims4.png",
         "nome": "The Sims 4",
         "descricao": "The Sims 4 é um simulador de vida da Electronic Arts, onde os jogadores criam e controlam a vida de Sims, personagens virtuais, e suas interações no dia a dia. O jogo permite aos jogadores personalizar a aparência, as relações e os destinos de seus Sims, desde o nascimento até a velhice, além de possibilitar a construção e decoração de casas e o gerenciamento de suas carreiras.",
         "detalhes": [
@@ -1058,7 +1058,7 @@
     },
     {
         "id": 12,
-        "imagem": "img/The Last of Us.png",
+        "imagem": "img/TheLastofUs.png",
         "nome": "The Last of Us Part I",
         "descricao": "The Last of Us™ Part I é a versão remasterizada do aclamado jogo de ação e aventura da Naughty Dog. Ambientado em um mundo pós-apocalíptico, o jogo segue Joel e Ellie, enquanto eles tentam sobreviver e encontrar um futuro em uma terra devastada por uma infecção que transforma humanos em monstros. O jogo é conhecido por sua narrativa emocionante, gráficos de alta qualidade e uma jogabilidade que mistura exploração e combate.",
         "detalhes": [
@@ -1154,7 +1154,7 @@
     },
     {
         "id": 13,
-        "imagem": "img/Cyberpunk 2077.png",
+        "imagem": "img/Cyberpunk2077.png",
         "nome": "Cyberpunk 2077",
         "descricao": "Cyberpunk 2077 é um jogo de RPG de ação de mundo aberto, ambientado em Night City, uma megalópole futurista dominada por tecnologias avançadas e corrupção. O jogo oferece uma experiência intensa, com um enredo envolvente e uma imersão profunda, explorando temas como ciberimplantes, gangs, e a luta por poder e sobrevivência.",
         "detalhes": [
@@ -1279,7 +1279,7 @@
     },
     {
         "id": 14,
-        "imagem": "img/Hogwarts Legacy.png",
+        "imagem": "img/HogwartsLegacy.png",
         "nome": "Hogwarts Legacy",
         "descricao": "Hogwarts Legacy é um RPG de ação ambientado no universo de Harry Potter, mas com uma história que se passa no século 19, antes dos eventos dos livros. O jogador assume o papel de um estudante em Hogwarts com a habilidade rara de manipular a magia antiga. O jogo oferece um mundo aberto onde os jogadores podem explorar o castelo de Hogwarts, suas áreas circundantes e até locais famosos como a Floresta Proibida e Hogsmeade. Além de frequentar aulas, os jogadores resolvem mistérios, enfrentam criaturas mágicas e interagem com personagens novos e conhecidos, enquanto tomam decisões que impactam o curso de suas aventuras e o destino do mundo mágico.",
         "detalhes": [
@@ -1500,7 +1500,7 @@
     },
     {
         "id": 16,
-        "imagem": "img/Dragon's Dogma 2.png",
+        "imagem": "img/Dragon'sDogma2.png",
         "nome": "Dragon's Dogma 2",
         "descricao": "Previsto para ser lançado em março de 2024, Dragon's Dogma 2 é a sequência do RPG de ação que mistura exploração em mundo aberto com batalhas épicas contra monstros. O jogo traz intrigas políticas no reino de Vermund e permite explorar locais como a nação dos Beastmen. O sistema de combate dinâmico e os companheiros pawn (que podem ser criados pelo jogador) são um dos principais destaques​.",
         "detalhes": [
@@ -1596,7 +1596,7 @@
     },
     {
         "id": 17,
-        "imagem": "img/Final Fantasy XVI (FFXVI).png",
+        "imagem": "img/FinalFantasyXVI(FFXVI).png",
         "nome": "Final Fantasy XVI",
         "descricao": "Final Fantasy XVI apresenta uma aventura épica com uma narrativa mais madura e sombria. O jogo se passa no mundo de Valisthea, onde uma luta de poder entre nações, representadas pelos Eikons (os summons), ameaça a paz. O combate é mais voltado para a ação e o jogo explora temas como vingança e destino através do protagonista, Clive Rosfield​.",
         "detalhes": [
@@ -1692,7 +1692,7 @@
     },
     {
         "id": 18,
-        "imagem": "img/Resident Evil 4 Remake.png",
+        "imagem": "img/ResidentEvil4Remake.png",
         "nome": "Resident Evil 4 Remake",
         "descricao": "Resident Evil 4 Remake é um jogo de ação e sobrevivência em terceira pessoa, onde o protagonista Leon S. Kennedy, agora um agente do governo dos EUA, é enviado para resgatar a filha do presidente em uma aldeia isolada na Espanha. Lá, ele enfrenta um culto sinistro e criaturas monstruosas, enquanto tenta desvendar os segredos por trás da ameaça bioterrorista. Com gráficos renovados, jogabilidade aprimorada e mecânicas modernizadas, o remake oferece uma experiência mais imersiva e aterrorizante do clássico de 2005.",
         "detalhes": [
@@ -1788,7 +1788,7 @@
     },
     {
         "id": 19,
-        "imagem": "img/God of War Ragnarök.png",
+        "imagem": "img/GodofWarRagnarök.png",
         "nome": "God of War Ragnarök",
         "descricao": "God of War Ragnarök é a sequência direta do aclamado God of War (2018), acompanhando Kratos e Atreus em sua jornada pelos reinos nórdicos enquanto tentam evitar o apocalipse conhecido como Ragnarök. Agora mais velho e questionador, Atreus busca entender seu papel como Loki, enquanto Kratos tenta protegê-lo e confrontar seu próprio passado violento. O jogo combina narrativa emocionante, combate visceral e exploração em mundos lindamente detalhados, com novos aliados e inimigos, incluindo deuses icônicos da mitologia nórdica como Thor e Odin. É uma história sobre família, destino e o custo das escolhas.",
         "detalhes": [
@@ -1884,7 +1884,7 @@
     },
     {
         "id": 20,
-        "imagem": "img/Star Wars Jedi Survivor.png",
+        "imagem": "img/StarWarsJediSurvivor.png",
         "nome": "Star Wars Jedi Survivor",
         "descricao": "Star Wars Jedi: Survivor continua a jornada épica de Cal Kestis após os eventos de Jedi: Fallen Order. Agora mais experiente, Cal luta para sobreviver como um dos últimos Jedi enquanto enfrenta o Império Galáctico. O jogo combina combate com sabres de luz, habilidades da Força, exploração de planetas diversos e uma narrativa envolvente. Com gráficos aprimorados e novas mecânicas, a história mais madura explora o impacto da resistência, sacrifício e a luta por esperança em tempos sombrios.",
         "detalhes": [
@@ -1975,6 +1975,774 @@
             {
                 "caracteristica2": "Sistema de Resfriamento",
                 "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "imagem": "img/Fortnite.png",
+        "nome": "Fortnite",
+        "descricao": "Fortnite é um jogo de Battle Royale de grande sucesso, com gráficos vibrantes e jogabilidade dinâmica. Os jogadores competem em uma ilha para ser o último sobrevivente, utilizando construções estratégicas e uma variedade de armas. O jogo é otimizado para diferentes configurações de hardware, oferecendo uma experiência ajustável para jogadores com PCs de diversas especificações.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1660 Super ou AMD Radeon RX 590"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-10400 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 100 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-9100 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 100 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "imagem": "img/LeagueofLegends.png",
+        "nome": "League of Legends",
+        "descricao": "League of Legends é um dos MOBAs mais populares do mundo, oferecendo uma experiência competitiva intensa com uma ampla seleção de campeões únicos. Enfrente oponentes em combates estratégicos, dominando habilidades e explorando diversas táticas em partidas dinâmicas. O jogo é altamente otimizado e acessível, funcionando em uma variedade de configurações de hardware.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 560 ou AMD Radeon HD 6950"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i5-6600K ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 16 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "8 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset B250 ou AM4 básico"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler a ar de qualidade intermediária"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GT 1030 ou AMD Radeon HD 6450"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i3-4130 ou AMD FX-4300"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 16 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "400W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "4 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler stock"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "Intel HD Graphics 4600 ou AMD Radeon Vega 3"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core 2 Duo E8400 ou AMD Athlon 64 X2 6000+"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 16 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "Sem necessidade de fonte adicional para gráficos integrados"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "2 GB DDR2"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico integrado"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "imagem": "img/Dota2.png",
+        "nome": "Dota 2",
+        "descricao": "Dota 2 é um dos MOBAs mais icônicos do mundo, oferecendo uma experiência desafiadora e profunda com heróis variados e mecânicas estratégicas. Com gráficos aprimorados e jogabilidade fluida, o jogo pode ser ajustado para atender desde configurações modestas até sistemas de alto desempenho.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-8700 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 30 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z370 ou AM4 intermediário"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido ou cooler a ar premium"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon R7 360"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-4460 ou AMD FX-8350"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 30 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de qualidade intermediária"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "Intel HD Graphics 4000 ou AMD Radeon HD 5450"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core 2 Duo E7500 ou AMD Athlon 64 X2 5600+"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 30 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "Sem necessidade de fonte adicional para gráficos integrados"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR2"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico integrado"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "imagem": "img/AssassinsCreedShadows.png",
+        "nome": "Assassin's Creed Shadows",
+        "descricao": "Assassin's Creed Shadows é a nova edição da aclamada franquia, apresentando um mundo aberto detalhado, enredo cativante e gráficos de ponta, ajustáveis para várias configurações de hardware.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-11900K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR4"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB livres"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido de alto desempenho"
+            },
+            {
+                "caracteristica": "Resolução e Gráficos",
+                "detalhes": "4K, gráficos ultra, Ray Tracing ativado"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 2070 ou AMD RX 5700XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD com 100 GB livres"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar intermediário"
+            },
+            {
+                "caracteristica1": "Resolução e Gráficos",
+                "detalhes1": "1080p, gráficos médios"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 1060 6 GB ou AMD RX 570 4 GB"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i7-4790 ou AMD Ryzen 5 1600"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD ou SSD com 100 GB livres"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            },
+            {
+                "caracteristica2": "Resolução e Gráficos",
+                "detalhes2": "720p, gráficos baixos"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "imagem": "img/BattlefieldV.png",
+        "nome": "Battlefield™ V",
+        "descricao": "Battlefield™ V oferece uma experiência de guerra imersiva com gráficos deslumbrantes, ambientes dinâmicos e mecânicas de combate realistas. O jogo pode ser ajustado para diferentes níveis de desempenho, proporcionando diversão tanto em sistemas de ponta quanto em máquinas mais modestas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 2080 ou AMD Radeon RX 6800"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-9900K ou AMD Ryzen 7 3700X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "650W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz ou superior"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z390 ou AM4 premium"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700 ou AMD Ryzen 5 2600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD ou SSD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "550W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "12 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset intermediário compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar premium"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon R7 360"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-4460 ou AMD FX-8350"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler padrão"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "imagem": "img/TheForest.png",
+        "nome": "The Forest",
+        "descricao": "The Forest é um jogo de sobrevivência em mundo aberto com gráficos imersivos e jogabilidade intensa. Explore, construa e lute contra inimigos desafiadores enquanto descobre os segredos de uma ilha misteriosa. O jogo oferece configurações adaptáveis para diversos níveis de hardware, permitindo uma experiência otimizada para cada jogador.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1070 ou AMD Radeon RX Vega 56"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-7700 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 15 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "550W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z390 ou AM4 de alta performance"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido ou cooler a ar premium"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 970 ou AMD Radeon R9 390"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-4460 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 15 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset intermediário compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core 2 Quad Q6600 ou AMD Phenom II X4 945"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 15 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR2"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "imagem": "img/Panicore.png",
+        "nome": "Panicore",
+        "descricao": "Panicore é um jogo intenso e imersivo, oferecendo uma experiência visualmente rica e cheia de ação. Ele apresenta gráficos impressionantes e mecânicas exigentes, adaptáveis a diferentes níveis de hardware, permitindo que jogadores com configurações variadas desfrutem do título.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-12900K ou AMD Ryzen 9 5950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 ou X570 avançado"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido de 360 mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 2060 ou AMD Radeon RX 5600 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-11600K ou AMD Ryzen 5 5600X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "600W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B560 ou B450 intermediário"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de alta eficiência"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1050 ou AMD Radeon RX 460"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-9100 ou AMD Ryzen 3 2200G"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4, 2400 MHz"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "imagem": "img/FarCry6.png",
+        "nome": "Far Cry 6",
+        "descricao": "Far Cry 6 oferece uma experiência imersiva em um mundo aberto com gráficos detalhados, jogabilidade dinâmica e uma história envolvente. O jogo exige bom desempenho de hardware, com diferentes configurações para proporcionar a melhor experiência dependendo do seu sistema.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-11900K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 60 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z590 ou X570"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido ou cooler a ar premium"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1660 Ti ou AMD Radeon RX 5600 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-7700 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD com 60 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "550W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B360 ou B450"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de qualidade intermediária"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-4590 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 60 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
             }
         ]
     }

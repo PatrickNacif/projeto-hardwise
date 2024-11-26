@@ -17,7 +17,7 @@ root {
 }
 
 .game-detalhe {
-    background: var(--gelo);
+    background: var(--branco);
     width: 100%;
     height: 250px;
     display: flex;
@@ -79,13 +79,14 @@ root {
     font-size: 20px;
 }
 
-table{
+table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
 }
 
-th,td {
+th,
+td {
     padding: 10px 5px;
     text-align: center;
     border-bottom: 1px solid #ddd;
@@ -93,8 +94,8 @@ th,td {
     border-left: 1px solid #ddd;
 
 }
+
 th {
     background-color: #ddd;
     padding: 10px 0px;
 }
-

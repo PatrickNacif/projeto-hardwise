@@ -31,7 +31,7 @@ var app = new Framework7({
         },
         pageInit: function (event, page) {
           // Fazer algo quando a página for inicializada
-          app.views.main.router.navigate('/detalhes/');
+          app.views.main.router.navigate('/index/');
           $.getScript('js/index.js');
 
           var swiper = new Swiper(".mySwiper", {
@@ -141,7 +141,6 @@ var app = new Framework7({
         pageBeforeIn: function (event, page) {
           // Fazer algo antes da página ser exibida
           $("#menuPrincipal").hide("fast");
-
         },
         pageAfterIn: function (event, page) {
           // Fazer algo depois da página ser exibida
