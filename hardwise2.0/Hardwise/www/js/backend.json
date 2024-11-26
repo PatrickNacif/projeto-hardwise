@@ -194,96 +194,96 @@
     {
         "id": 3,
         "imagem": "img/pngimg.com - red_dead_redemption_PNG20.png",
-        "nome": "Red Dead Redemption",
-        "descricao": "Red Dead Redemption é um jogo de ação e aventura da Rockstar Games, lançado em 2010. Ambientado no Velho Oeste, segue a história de John Marston, um ex-criminoso que busca capturar antigos parceiros para salvar sua família. Com um mundo aberto imersivo, missões emocionantes e uma rica narrativa, o jogo é aclamado por sua jogabilidade e ambientação detalhada.",
+        "nome": "Red Dead Redemption II",
+        "descricao": "Red Dead Redemption II é um jogo de ação e aventura da Rockstar Games, lançado em 2010. Ambientado no Velho Oeste, segue a história de John Marston, um ex-criminoso que busca capturar antigos parceiros para salvar sua família. Com um mundo aberto imersivo, missões emocionantes e uma rica narrativa, o jogo é aclamado por sua jogabilidade e ambientação detalhada.",
         "detalhes": [
             {
                 "caracteristica": "Placa de Video",
-                "detalhes": ""
+                "detalhes": "NVIDIA GeForce RTX 3080 com 10GB de VRAM ou AMD Radeon RX 6800 XT com 16GB de VRAM"
             },
             {
                 "caracteristica": "Processador",
-                "detalhes": ""
+                "detalhes": "Intel Core i7-12700K (12 núcleos, 20 threads) ou AMD Ryzen 7 5800X (8 núcleos, 16 threads)"
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": ""
+                "detalhes": "150 GB de espaço disponível em SSD NVMe PCIe Gen4"
             },
             {
                 "caracteristica": "Fonte",
-                "detalhes": ""
+                "detalhes": "750W com certificação 80 Plus Gold ou superior"
             },
             {
-                "caracteristica": "Memória Ram",
-                "detalhes": ""
+                "caracteristica": "Memoria Ram",
+                "detalhes": "16 GB DDR4 em dual-channel (2x8 GB, 3200 MHz ou superior)"
             },
             {
                 "caracteristica": "Placa Mãe",
-                "detalhes": ""
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD), com suporte a overclock e PCIe Gen4"
             },
             {
                 "caracteristica": "Sistema de Resfriamento",
-                "detalhes": ""
+                "detalhes": "Cooler líquido AIO de 240mm ou 360mm para melhor eficiência térmica"
             }
         ],
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
-                "detalhes1": ""
+                "detalhes1": "NVIDIA GeForce GTX 1060 6GB ou AMD Radeon RX 590 com desempenho equilibrado em 1080p"
             },
             {
                 "caracteristica1": "Processador",
-                "detalhes1": ""
+                "detalhes1": "Intel Core i7-4770K (4 núcleos, 8 threads) ou AMD Ryzen 5 1500X (4 núcleos, 8 threads)"
             },
             {
                 "caracteristica1": "Armazenamento",
-                "detalhes1": ""
+                "detalhes1": "150 GB de espaço livre em SSD SATA ou HDD rápido"
             },
             {
                 "caracteristica1": "Fonte",
-                "detalhes1": ""
+                "detalhes1": "500W com certificação 80 Plus Bronze"
             },
             {
-                "caracteristica1": "Memória Ram",
-                "detalhes1": ""
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": "12 GB DDR4 em dual-channel"
             },
             {
                 "caracteristica1": "Placa Mãe",
-                "detalhes1": ""
+                "detalhes1": "Chipset Z87 (Intel) ou B350 (AMD), compatível com os processadores recomendados"
             },
             {
                 "caracteristica1": "Sistema de Resfriamento",
-                "detalhes1": ""
+                "detalhes1": "Cooler padrão ou básico aftermarket, como Cooler Master Hyper 212"
             }
         ],
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
-                "detalhes2": ""
+                "detalhes2": "NVIDIA GeForce GTX 770 com 2GB de VRAM ou AMD Radeon R9 280 com 3GB de VRAM"
             },
             {
                 "caracteristica2": "Processador",
-                "detalhes2": ""
+                "detalhes2": "Intel Core i5-2500K (4 núcleos, 4 threads) ou AMD FX-6300 (6 núcleos, 6 threads)"
             },
             {
                 "caracteristica2": "Armazenamento",
-                "detalhes2": ""
+                "detalhes2": "150 GB de espaço disponível em HDD básico (7200 RPM recomendado)"
             },
             {
                 "caracteristica2": "Fonte",
-                "detalhes2": ""
+                "detalhes2": "450W com certificação 80 Plus Bronze"
             },
             {
-                "caracteristica2": "Memória Ram",
-                "detalhes2": ""
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": "8 GB DDR3"
             },
             {
                 "caracteristica2": "Placa Mãe",
-                "detalhes2": ""
+                "detalhes2": "Chipset H61 (Intel) ou AM3+ básico (AMD), compatível com processadores de entrada"
             },
             {
                 "caracteristica2": "Sistema de Resfriamento",
-                "detalhes2": ""
+                "detalhes2": "Cooler de fábrica para CPU, suficiente para cargas leves"
             }
         ]
     },
@@ -295,91 +295,91 @@
         "detalhes": [
             {
                 "caracteristica": "Placa de Video",
-                "detalhes": ""
+                "detalhes": "NVIDIA GeForce RTX 4080 com 16GB de VRAM ou AMD Radeon RX 7900 XTX com 24GB de VRAM"
             },
             {
                 "caracteristica": "Processador",
-                "detalhes": ""
+                "detalhes": "Intel Core i9-13900K (24 núcleos, 32 threads) ou AMD Ryzen 9 7900X (12 núcleos, 24 threads)"
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": ""
+                "detalhes": "150 GB de espaço livre em SSD NVMe PCIe Gen4"
             },
             {
                 "caracteristica": "Fonte",
-                "detalhes": ""
+                "detalhes": "850W com certificação 80 Plus Gold ou superior"
             },
             {
-                "caracteristica": "Memória Ram",
-                "detalhes": ""
+                "caracteristica": "Memoria Ram",
+                "detalhes": "32 GB DDR5 em dual-channel (5600 MHz ou superior)"
             },
             {
                 "caracteristica": "Placa Mãe",
-                "detalhes": ""
+                "detalhes": "Chipset Z790 (Intel) ou X670E (AMD), com suporte a PCIe Gen5"
             },
             {
                 "caracteristica": "Sistema de Resfriamento",
-                "detalhes": ""
+                "detalhes": "Cooler líquido AIO de 360mm ou custom loop para máxima eficiência térmica"
             }
         ],
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
-                "detalhes1": ""
+                "detalhes1": "NVIDIA GeForce RTX 3070 8GB ou AMD Radeon RX 6700 XT 12GB"
             },
             {
                 "caracteristica1": "Processador",
-                "detalhes1": ""
+                "detalhes1": "Intel Core i7-10700K (8 núcleos, 16 threads) ou AMD Ryzen 5 5600X (6 núcleos, 12 threads)"
             },
             {
                 "caracteristica1": "Armazenamento",
-                "detalhes1": ""
+                "detalhes1": "150 GB de espaço livre em SSD SATA"
             },
             {
                 "caracteristica1": "Fonte",
-                "detalhes1": ""
+                "detalhes1": "650W com certificação 80 Plus Bronze ou superior"
             },
             {
-                "caracteristica1": "Memória Ram",
-                "detalhes1": ""
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": "16 GB DDR4 (3200 MHz ou superior)"
             },
             {
                 "caracteristica1": "Placa Mãe",
-                "detalhes1": ""
+                "detalhes1": "Chipset Z490 (Intel) ou B550 (AMD), compatível com os processadores"
             },
             {
                 "caracteristica1": "Sistema de Resfriamento",
-                "detalhes1": ""
+                "detalhes1": "Cooler tower básico, como o Cooler Master Hyper 212"
             }
         ],
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
-                "detalhes2": ""
+                "detalhes2": "NVIDIA GeForce GTX 1060 6GB ou AMD Radeon RX 580 8GB"
             },
             {
                 "caracteristica2": "Processador",
-                "detalhes2": ""
+                "detalhes2": "Intel Core i5-9400F (6 núcleos, 6 threads) ou AMD Ryzen 3 3100 (4 núcleos, 8 threads)"
             },
             {
                 "caracteristica2": "Armazenamento",
-                "detalhes2": ""
+                "detalhes2": "150 GB de espaço livre em HDD (7200 RPM)"
             },
             {
                 "caracteristica2": "Fonte",
-                "detalhes2": ""
+                "detalhes2": "500W com certificação 80 Plus Bronze"
             },
             {
-                "caracteristica2": "Memória Ram",
-                "detalhes2": ""
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": "8 GB DDR4 (2400 MHz ou superior)"
             },
             {
                 "caracteristica2": "Placa Mãe",
-                "detalhes2": ""
+                "detalhes2": "Chipset básico H310 (Intel) ou A320 (AMD), compatível com os processadores"
             },
             {
                 "caracteristica2": "Sistema de Resfriamento",
-                "detalhes2": ""
+                "detalhes2": "Cooler de fábrica para CPU, suficiente para cargas leves"
             }
         ]
     },
@@ -391,91 +391,91 @@
         "detalhes": [
             {
                 "caracteristica": "Placa de Video",
-                "detalhes": ""
+                "detalhes": "Nvidia GeForce RTX 4080 / AMD Radeon RX 7900 XTX"
             },
             {
                 "caracteristica": "Processador",
-                "detalhes": ""
+                "detalhes": "Intel Core i9-12900K / AMD Ryzen 9 5900X"
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": ""
+                "detalhes": "29 GB disponíveis em SSD"
             },
             {
                 "caracteristica": "Fonte",
-                "detalhes": ""
+                "detalhes": "750W ou superior, 80 Plus Gold"
             },
             {
-                "caracteristica": "Memória Ram",
-                "detalhes": ""
+                "caracteristica": "Memoria Ram",
+                "detalhes": "32 GB DDR4 ou DDR5"
             },
             {
                 "caracteristica": "Placa Mãe",
-                "detalhes": ""
+                "detalhes": "Compatível com PCIe 4.0 e processadores de alto desempenho"
             },
             {
                 "caracteristica": "Sistema de Resfriamento",
-                "detalhes": ""
+                "detalhes": "Water cooler ou air cooler de alta performance"
             }
         ],
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
-                "detalhes1": ""
+                "detalhes1": "Nvidia GeForce RTX 2060 / AMD Radeon RX Vega 64"
             },
             {
                 "caracteristica1": "Processador",
-                "detalhes1": ""
+                "detalhes1": "Intel Core i7-9700K / AMD Ryzen 5 3600"
             },
             {
                 "caracteristica1": "Armazenamento",
-                "detalhes1": ""
+                "detalhes1": "29 GB disponíveis"
             },
             {
                 "caracteristica1": "Fonte",
-                "detalhes1": ""
+                "detalhes1": "650W, 80 Plus Bronze ou superior"
             },
             {
-                "caracteristica1": "Memória Ram",
-                "detalhes1": ""
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": "16 GB DDR4"
             },
             {
                 "caracteristica1": "Placa Mãe",
-                "detalhes1": ""
+                "detalhes1": "Compatível com PCIe 3.0 e processadores de médio desempenho"
             },
             {
                 "caracteristica1": "Sistema de Resfriamento",
-                "detalhes1": ""
+                "detalhes1": "Air cooler de boa qualidade"
             }
         ],
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
-                "detalhes2": ""
+                "detalhes2": "Nvidia GeForce GTX 980 / AMD Radeon RX 590"
             },
             {
                 "caracteristica2": "Processador",
-                "detalhes2": ""
+                "detalhes2": "Intel Core i5-9600K / AMD Ryzen 5 2600"
             },
             {
                 "caracteristica2": "Armazenamento",
-                "detalhes2": ""
+                "detalhes2": "29 GB disponíveis"
             },
             {
                 "caracteristica2": "Fonte",
-                "detalhes2": ""
+                "detalhes2": "500W, 80 Plus"
             },
             {
-                "caracteristica2": "Memória Ram",
-                "detalhes2": ""
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": "8 GB DDR4"
             },
             {
                 "caracteristica2": "Placa Mãe",
-                "detalhes2": ""
+                "detalhes2": "Básica compatível com os processadores mínimos"
             },
             {
                 "caracteristica2": "Sistema de Resfriamento",
-                "detalhes2": ""
+                "detalhes2": "Padrão do processador"
             }
         ]
     },
@@ -487,92 +487,1302 @@
         "descricao": "Call of Duty: Black Ops Cold War (lançado em 2020) é um jogo de tiro em primeira pessoa da Activision, ambientado durante a Guerra Fria. O jogo segue uma trama de espionagem envolvendo missões clandestinas e conflitos globais. Ele traz uma campanha single-player, modos multiplayer e o popular modo de zumbis. A ação intensa e o foco no combate tático tornaram o jogo um sucesso entre os fãs da série.",
         "detalhes": [
             {
-                "caracteristica": "Placa de Video",
-                "detalhes": ""
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4070 / NVIDIA GeForce RTX 3080 / AMD Radeon RX 6800XT"
             },
             {
                 "caracteristica": "Processador",
-                "detalhes": ""
+                "detalhes": "Intel Core i7-8700K / AMD Ryzen 7 2700X"
             },
             {
                 "caracteristica": "Armazenamento",
-                "detalhes": ""
+                "detalhes": "SSD de 102GB disponível"
             },
             {
                 "caracteristica": "Fonte",
-                "detalhes": ""
+                "detalhes": "Fonte de pelo menos 650W, com certificação 80 Plus Gold recomendada"
             },
             {
-                "caracteristica": "Memória Ram",
-                "detalhes": ""
+                "caracteristica": "Memória RAM",
+                "detalhes": "16GB"
             },
             {
                 "caracteristica": "Placa Mãe",
-                "detalhes": ""
+                "detalhes": "Compatível com os processadores e GPU recomendados (chipsets Z390 ou B450 são boas opções)."
             },
             {
                 "caracteristica": "Sistema de Resfriamento",
-                "detalhes": ""
+                "detalhes": "Resfriamento a ar de alta performance ou water cooler."
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1080Ti / NVIDIA GeForce RTX 3060 / AMD Radeon RX 6600XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-6700K / AMD Ryzen 5 1600X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD de 102GB disponível"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "Fonte de pelo menos 550W"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "12GB"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Compatível com os processadores e GPU recomendados (chipsets Z170 ou B450 são boas opções)."
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Coolers padrão com boa ventilação do gabinete."
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 960 / AMD Radeon RX 470 / Intel Arc A580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-6600 / AMD Ryzen 5 1400"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "SSD de 102GB disponível"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "Fonte de pelo menos 500W"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8GB"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Compatível com os processadores e GPU mínimos (chipsets B250 ou equivalentes)."
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Coolers padrão do processador e placa de vídeo."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "imagem": "img/Counter-Strike 2.png",
+        "nome": "Counter-Strike 2",
+        "descricao": "Counter-Strike 2 é a nova versão da série de jogos de tiro, lançada em 2023, baseada no motor Source 2. O jogo mantém a clássica dinâmica de equipes de terroristas e contra-terroristas, mas com gráficos e desempenho melhorados, além de novos mapas e recursos.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
             }
         ],
         "detalhes1": [
             {
                 "caracteristica1": "Placa de Video",
-                "detalhes1": ""
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
             },
             {
                 "caracteristica1": "Processador",
-                "detalhes1": ""
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
             },
             {
                 "caracteristica1": "Armazenamento",
-                "detalhes1": ""
+                "detalhes1": "SSD NVMe de 512GB"
             },
             {
                 "caracteristica1": "Fonte",
-                "detalhes1": ""
+                "detalhes1": "650W, 80 Plus Bronze"
             },
             {
                 "caracteristica1": "Memória Ram",
-                "detalhes1": ""
+                "detalhes1": "16GB DDR4"
             },
             {
                 "caracteristica1": "Placa Mãe",
-                "detalhes1": ""
+                "detalhes1": "Motherboard B660 / B550"
             },
             {
                 "caracteristica1": "Sistema de Resfriamento",
-                "detalhes1": ""
+                "detalhes1": "Cooler a ar de 120mm"
             }
         ],
         "detalhes2": [
             {
                 "caracteristica2": "Placa de Video",
-                "detalhes2": ""
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
             },
             {
                 "caracteristica2": "Processador",
-                "detalhes2": ""
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
             },
             {
                 "caracteristica2": "Armazenamento",
-                "detalhes2": ""
+                "detalhes2": "HDD de 1TB"
             },
             {
                 "caracteristica2": "Fonte",
-                "detalhes2": ""
+                "detalhes2": "450W, 80 Plus White"
             },
             {
                 "caracteristica2": "Memória Ram",
-                "detalhes2": ""
+                "detalhes2": "8GB DDR4"
             },
             {
                 "caracteristica2": "Placa Mãe",
-                "detalhes2": ""
+                "detalhes2": "Motherboard H510 / A320"
             },
             {
                 "caracteristica2": "Sistema de Resfriamento",
-                "detalhes2": ""
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "imagem": "img/EAFC25.png",
+        "nome": "EAFC25",
+        "descricao": "EA Sports FC 25 é a mais recente entrada na franquia de futebol da EA, que substitui a famosa série FIFA. O jogo oferece uma experiência realista com modos como Carreira, Ultimate Team e Club Pro. Ele foca em gameplay refinado, gráficos melhorados e uma maior ênfase na personalização, além de contar com mais licenças e parcerias exclusivas com clubes e ligas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "imagem": "img/The Witcher.png",
+        "nome": "The Witcher 3",
+        "descricao": "The Witcher 3: Wild Hunt é um RPG de ação desenvolvido pela CD Projekt Red, onde o jogador assume o papel de Geralt de Rivia, um caçador de monstros em um mundo medieval aberto e vasto. O jogo é conhecido por sua narrativa profunda, escolhas que afetam o mundo e o desenvolvimento dos personagens, além de batalhas dinâmicas e um mundo imersivo repleto de misérias, mistérios e criaturas fantásticas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA RTX 3070 ou AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-9700K ou AMD Ryzen 7 3700X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "650W ou superior, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z390 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-8400 ou AMD Ryzen 5 1600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "500W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B360 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar padrão"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 970 ou AMD Radeon RX 570"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-750 ou AMD FX-6300"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "imagem": "img/Skyrim.png",
+        "nome": "Skyrim",
+        "descricao": "The Elder Scrolls V: Skyrim é um jogo de RPG de mundo aberto da Bethesda, ambientado no vasto continente de Tamriel. O jogador assume o papel do Dovahkiin, um herói com habilidades especiais, com a missão de derrotar o dragão Alduin e salvar o mundo. A exploração do mundo de Skyrim, as interações com NPCs e as diversas facções são apenas algumas das experiências que fazem deste jogo um dos mais imersivos de todos os tempos.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1080 ou AMD Radeon RX Vega 64"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-4790K ou AMD Ryzen 7 3700X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 12 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "650W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z370 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-2500K ou AMD Ryzen 5 1600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 12 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "500W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR4, 2133 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B250 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar padrão"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 950 ou AMD Radeon R7 370"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-540 ou AMD Phenom II X4 965"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 12 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "imagem": "img/the sims 4.png",
+        "nome": "The Sims 4",
+        "descricao": "The Sims 4 é um simulador de vida da Electronic Arts, onde os jogadores criam e controlam a vida de Sims, personagens virtuais, e suas interações no dia a dia. O jogo permite aos jogadores personalizar a aparência, as relações e os destinos de seus Sims, desde o nascimento até a velhice, além de possibilitar a construção e decoração de casas e o gerenciamento de suas carreiras.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1660 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i5-6600K ou AMD Ryzen 5 1500X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 18 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "12 GB DDR4, 2133 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset B250 (Intel) ou B350 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 950 ou AMD Radeon R7 370"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-750 ou AMD FX-6300"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 18 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "350W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler stock"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 650 ou AMD Radeon HD 7850"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-530 ou AMD Athlon II X4 640"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 18 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "300W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "imagem": "img/The Last of Us.png",
+        "nome": "The Last of Us Part I",
+        "descricao": "The Last of Us™ Part I é a versão remasterizada do aclamado jogo de ação e aventura da Naughty Dog. Ambientado em um mundo pós-apocalíptico, o jogo segue Joel e Ellie, enquanto eles tentam sobreviver e encontrar um futuro em uma terra devastada por uma infecção que transforma humanos em monstros. O jogo é conhecido por sua narrativa emocionante, gráficos de alta qualidade e uma jogabilidade que mistura exploração e combate.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "imagem": "img/Cyberpunk 2077.png",
+        "nome": "Cyberpunk 2077",
+        "descricao": "Cyberpunk 2077 é um jogo de RPG de ação de mundo aberto, ambientado em Night City, uma megalópole futurista dominada por tecnologias avançadas e corrupção. O jogo oferece uma experiência intensa, com um enredo envolvente e uma imersão profunda, explorando temas como ciberimplantes, gangs, e a luta por poder e sobrevivência.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ],
+        "configuracoes": {
+            "maxima": {
+                "placa_de_video": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT",
+                "processador": "Intel Core i9-13900K / AMD Ryzen 9 7950X",
+                "armazenamento": "SSD NVMe de 1TB",
+                "fonte": "750W, 80 Plus Gold",
+                "memoria_ram": "32GB DDR5",
+                "placa_mae": "Motherboard Z690 / X670",
+                "sistema_resfriamento": "Cooler líquido 240mm"
+            },
+            "media": {
+                "placa_de_video": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT",
+                "processador": "Intel Core i7-12700K / AMD Ryzen 7 7700X",
+                "armazenamento": "SSD NVMe de 512GB",
+                "fonte": "650W, 80 Plus Bronze",
+                "memoria_ram": "16GB DDR4",
+                "placa_mae": "Motherboard B660 / B550",
+                "sistema_resfriamento": "Cooler a ar de 120mm"
+            },
+            "minima": {
+                "placa_de_video": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550",
+                "processador": "Intel Core i5-10400F / AMD Ryzen 5 3600",
+                "armazenamento": "HDD de 1TB",
+                "fonte": "450W, 80 Plus White",
+                "memoria_ram": "8GB DDR4",
+                "placa_mae": "Motherboard H510 / A320",
+                "sistema_resfriamento": "Cooler a ar de 80mm"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "imagem": "img/Hogwarts Legacy.png",
+        "nome": "Hogwarts Legacy",
+        "descricao": "Hogwarts Legacy é um RPG de ação ambientado no universo de Harry Potter, mas com uma história que se passa no século 19, antes dos eventos dos livros. O jogador assume o papel de um estudante em Hogwarts com a habilidade rara de manipular a magia antiga. O jogo oferece um mundo aberto onde os jogadores podem explorar o castelo de Hogwarts, suas áreas circundantes e até locais famosos como a Floresta Proibida e Hogsmeade. Além de frequentar aulas, os jogadores resolvem mistérios, enfrentam criaturas mágicas e interagem com personagens novos e conhecidos, enquanto tomam decisões que impactam o curso de suas aventuras e o destino do mundo mágico.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ],
+        "configuracoes": {
+            "maxima": {
+                "placa_de_video": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT",
+                "processador": "Intel Core i9-13900K / AMD Ryzen 9 7950X",
+                "armazenamento": "SSD NVMe de 1TB",
+                "fonte": "750W, 80 Plus Gold",
+                "memoria_ram": "32GB DDR5",
+                "placa_mae": "Motherboard Z690 / X670",
+                "sistema_resfriamento": "Cooler líquido 240mm"
+            },
+            "media": {
+                "placa_de_video": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT",
+                "processador": "Intel Core i7-12700K / AMD Ryzen 7 7700X",
+                "armazenamento": "SSD NVMe de 512GB",
+                "fonte": "650W, 80 Plus Bronze",
+                "memoria_ram": "16GB DDR4",
+                "placa_mae": "Motherboard B660 / B550",
+                "sistema_resfriamento": "Cooler a ar de 120mm"
+            },
+            "minima": {
+                "placa_de_video": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550",
+                "processador": "Intel Core i5-10400F / AMD Ryzen 5 3600",
+                "armazenamento": "HDD de 1TB",
+                "fonte": "450W, 80 Plus White",
+                "memoria_ram": "8GB DDR4",
+                "placa_mae": "Motherboard H510 / A320",
+                "sistema_resfriamento": "Cooler a ar de 80mm"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "imagem": "img/tekken.png",
+        "nome": "Tekken 8",
+        "descricao": "Tekken 8 continua a icônica série de jogos de luta com novos mecânicos, incluindo um sistema de heat, que oferece aos jogadores impulsos temporários de poder. A história segue a eterna rivalidade entre Heihachi Mishima e seu filho, Kazuya, enquanto o jogo traz novos personagens e retorna com lutadores clássicos. A jogabilidade combina combate rápido e dinâmica com opções de personalização para os personagens​.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1070 ou AMD Radeon RX 5700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 100 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar padrão"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-2500K ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 100 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "imagem": "img/Dragon's Dogma 2.png",
+        "nome": "Dragon's Dogma 2",
+        "descricao": "Previsto para ser lançado em março de 2024, Dragon's Dogma 2 é a sequência do RPG de ação que mistura exploração em mundo aberto com batalhas épicas contra monstros. O jogo traz intrigas políticas no reino de Vermund e permite explorar locais como a nação dos Beastmen. O sistema de combate dinâmico e os companheiros pawn (que podem ser criados pelo jogador) são um dos principais destaques​.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K ou AMD Ryzen 9 7900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "850W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z790 (Intel) ou X670 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "SSD SATA com 100 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "550W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset B560 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar padrão"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "imagem": "img/Final Fantasy XVI (FFXVI).png",
+        "nome": "Final Fantasy XVI",
+        "descricao": "Final Fantasy XVI apresenta uma aventura épica com uma narrativa mais madura e sombria. O jogo se passa no mundo de Valisthea, onde uma luta de poder entre nações, representadas pelos Eikons (os summons), ameaça a paz. O combate é mais voltado para a ação e o jogo explora temas como vingança e destino através do protagonista, Clive Rosfield​.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K ou AMD Ryzen 9 7900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 150 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "850W, certificação 80 Plus Platinum"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z790 (Intel) ou X670 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe com 150 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 150 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "550W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "imagem": "img/Resident Evil 4 Remake.png",
+        "nome": "Resident Evil 4 Remake",
+        "descricao": "Resident Evil 4 Remake é um jogo de ação e sobrevivência em terceira pessoa, onde o protagonista Leon S. Kennedy, agora um agente do governo dos EUA, é enviado para resgatar a filha do presidente em uma aldeia isolada na Espanha. Lá, ele enfrenta um culto sinistro e criaturas monstruosas, enquanto tenta desvendar os segredos por trás da ameaça bioterrorista. Com gráficos renovados, jogabilidade aprimorada e mecânicas modernizadas, o remake oferece uma experiência mais imersiva e aterrorizante do clássico de 2005.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K ou AMD Ryzen 9 7900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Platinum"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z790 (Intel) ou X670 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
             }
         ]
     }
