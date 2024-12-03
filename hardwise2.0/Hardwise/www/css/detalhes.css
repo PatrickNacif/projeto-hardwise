@@ -99,3 +99,19 @@ th {
     background-color: #ddd;
     padding: 10px 0px;
 }
+
+#explicacao-container {
+    display: flex !important; /* Para usar centralização com Flexbox */
+    justify-content: center !important; /* Alinha horizontalmente ao centro */
+    align-items: center !important; /* Alinha verticalmente ao centro */
+    background-color: #f1f1f1 !important; /* Cor de fundo */
+    color: #000000 !important; /* Cor do texto */
+   
+    font-size: 13px !important; /* Tamanho da fonte */
+    border-radius: 10px !important; /* Bordas arredondadas */
+    padding: 20px !important; /* Espaçamento interno */
+    margin: 10px auto !important; /* Margem com alinhamento central */
+    max-width: 600px !important; /* Largura máxima do bloco */
+    text-align: justify !important; /* Alinha texto ao centro */
+    
+}
