@@ -16,6 +16,9 @@ if (jogo){
     $("#imagem-detalhe").attr('src',jogo.imagem);
     $("#nome-detalhe").html(jogo.nome);
     $("#descricao-detalhe").html(jogo.descricao);
+    $("#explicacao-detalhe1").html(jogo.explicacao1);
+    $("#explicacao-detalhe2").html(jogo.explicacao2);
+    $("#explicacao-detalhe3").html(jogo.explicacao3);
 
     // PREENCHER TABELA 0
     var tabelaDetalhes0 = $("#tabdetalhes0");
@@ -24,6 +27,7 @@ if (jogo){
         <tr>
             <td>${detalhe.caracteristica}</td>
             <td>${detalhe.detalhes}</td>
+
         </tr>`;
         tabelaDetalhes0.append(linha);
     });
